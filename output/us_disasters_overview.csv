@@ -1,0 +1,1555 @@
+state,incident_type,ih_program_declared,ia_program_declared,hm_program_declared,pa_program_declared,incident_month,incident_year,#disasters,state_name
+ME,Biological,Yes,No,Yes,Yes,January,2020,436,Maine
+TX,Biological,No,No,No,Yes,January,2020,258,Texas
+TX,Biological,Yes,No,Yes,Yes,January,2020,257,Texas
+TX,Severe Ice Storm,No,No,No,Yes,February,2021,254,Texas
+ME,Biological,No,No,No,Yes,January,2020,180,Maine
+GA,Biological,Yes,No,Yes,Yes,January,2020,160,Georgia
+GA,Biological,No,No,No,Yes,January,2020,160,Georgia
+GA,Hurricane,No,No,No,Yes,September,2017,159,Georgia
+GA,Hurricane,No,No,Yes,Yes,September,2017,152,Georgia
+VA,Biological,No,No,No,Yes,January,2020,138,Virginia
+VA,Biological,Yes,No,Yes,Yes,January,2020,138,Virginia
+VA,Hurricane,No,No,No,Yes,October,2012,136,Virginia
+VA,Hurricane,No,No,No,Yes,September,2018,134,Virginia
+SD,Biological,Yes,No,Yes,No,January,2020,130,South Dakota
+TX,Severe Ice Storm,Yes,No,Yes,Yes,February,2021,129,Texas
+LA,Hurricane,No,No,No,Yes,October,2020,128,Louisiana
+OK,Biological,No,No,No,Yes,January,2020,127,Oklahoma
+TX,Severe Ice Storm,No,No,Yes,Yes,February,2021,125,Texas
+TX,Fire,No,No,Yes,Yes,April,2011,122,Texas
+KS,Biological,Yes,No,Yes,Yes,January,2020,121,Kansas
+KY,Biological,Yes,No,Yes,Yes,January,2020,120,Kentucky
+KY,Biological,No,No,No,Yes,January,2020,120,Kentucky
+MO,Biological,No,No,No,Yes,January,2020,115,Missouri
+MO,Severe Storm,No,No,No,Yes,January,2011,115,Missouri
+MO,Biological,Yes,No,Yes,Yes,January,2020,115,Missouri
+OK,Biological,Yes,No,Yes,Yes,January,2020,112,Oklahoma
+KS,Biological,No,No,No,Yes,January,2020,112,Kansas
+GA,Hurricane,No,No,No,Yes,October,2018,108,Georgia
+MN,Biological,No,No,No,Yes,January,2020,107,Minnesota
+MN,Biological,Yes,No,Yes,Yes,January,2020,107,Minnesota
+NC,Biological,Yes,No,Yes,Yes,January,2020,106,North Carolina
+NE,Biological,No,No,No,Yes,January,2020,104,Nebraska
+NC,Hurricane,No,No,No,Yes,September,2019,103,North Carolina
+IL,Biological,No,No,No,Yes,January,2020,102,Illinois
+IA,Biological,No,No,No,Yes,January,2020,102,Iowa
+IL,Biological,Yes,No,Yes,Yes,January,2020,102,Illinois
+NC,Biological,No,No,No,Yes,January,2020,101,North Carolina
+NE,Biological,Yes,No,Yes,Yes,January,2020,101,Nebraska
+IA,Biological,Yes,No,Yes,Yes,January,2020,101,Iowa
+NC,Hurricane,No,No,No,Yes,July,2020,101,North Carolina
+NC,Hurricane,No,No,No,Yes,September,2018,101,North Carolina
+NC,Hurricane,No,No,No,Yes,September,2022,101,North Carolina
+TN,Biological,Yes,No,Yes,Yes,January,2020,95,Tennessee
+TN,Biological,No,No,No,Yes,January,2020,95,Tennessee
+MI,Biological,No,No,No,Yes,January,2020,94,Michigan
+MI,Biological,Yes,No,Yes,Yes,January,2020,94,Michigan
+IN,Biological,Yes,No,Yes,Yes,January,2020,93,Indiana
+IN,Biological,No,No,No,Yes,January,2020,92,Indiana
+GA,Severe Ice Storm,No,No,No,Yes,February,2014,91,Georgia
+OH,Severe Storm,No,No,No,Yes,June,2012,88,Ohio
+OH,Biological,No,No,No,Yes,January,2020,88,Ohio
+OH,Biological,Yes,No,Yes,Yes,January,2020,88,Ohio
+PR,Hurricane,No,No,No,Yes,September,2017,88,Puerto Rico
+PR,Hurricane,Yes,No,Yes,Yes,September,2017,86,Puerto Rico
+WI,Biological,No,No,No,Yes,January,2020,83,Wisconsin
+WI,Biological,Yes,No,Yes,Yes,January,2020,83,Wisconsin
+MS,Hurricane,No,No,No,Yes,August,2021,83,Mississippi
+MS,Biological,No,No,No,Yes,January,2020,83,Mississippi
+MS,Biological,Yes,No,Yes,Yes,January,2020,83,Mississippi
+NM,Biological,No,No,No,Yes,January,2020,82,New Mexico
+LA,Hurricane,No,No,Yes,Yes,October,2020,81,Louisiana
+SD,Biological,No,No,No,Yes,January,2020,79,South Dakota
+PR,Hurricane,Yes,No,Yes,Yes,September,2022,78,Puerto Rico
+PR,Severe Storm,No,No,No,Yes,August,2019,78,Puerto Rico
+PR,Hurricane,No,No,No,Yes,August,2011,78,Puerto Rico
+PR,Hurricane,No,No,No,Yes,September,2022,78,Puerto Rico
+PR,Earthquake,No,No,No,Yes,December,2019,78,Puerto Rico
+PR,Hurricane,No,No,No,Yes,August,2020,78,Puerto Rico
+PR,Biological,Yes,No,Yes,Yes,January,2020,78,Puerto Rico
+PR,Hurricane,No,No,No,Yes,July,2020,78,Puerto Rico
+PR,Biological,No,No,No,Yes,January,2020,78,Puerto Rico
+OK,Severe Ice Storm,No,No,No,Yes,February,2021,77,Oklahoma
+OK,Severe Storm,No,No,No,Yes,January,2011,77,Oklahoma
+SD,Biological,Yes,No,Yes,Yes,January,2020,77,South Dakota
+OK,Severe Storm,No,No,No,Yes,January,2010,77,Oklahoma
+AR,Biological,No,No,No,Yes,January,2020,76,Arkansas
+MO,Severe Storm,No,No,Yes,Yes,May,2015,76,Missouri
+AR,Biological,Yes,No,Yes,Yes,January,2020,76,Arkansas
+AR,Hurricane,No,No,No,Yes,August,2020,75,Arkansas
+MS,Hurricane,No,No,Yes,Yes,August,2021,74,Mississippi
+MO,Flood,No,No,No,Yes,December,2015,74,Missouri
+FL,Biological,No,No,No,Yes,January,2020,73,Florida
+LA,Biological,No,No,No,Yes,January,2020,73,Louisiana
+FL,Hurricane,No,No,No,Yes,August,2019,73,Florida
+IA,Flood,No,No,Yes,Yes,March,2019,71,Iowa
+LA,Biological,Yes,No,Yes,Yes,January,2020,71,Louisiana
+FL,Biological,Yes,No,Yes,Yes,January,2020,70,Florida
+AL,Biological,Yes,No,Yes,Yes,January,2020,70,Alabama
+KS,Severe Storm,No,No,Yes,Yes,April,2019,70,Kansas
+AL,Biological,No,No,No,Yes,January,2020,69,Alabama
+FL,Hurricane,No,No,No,Yes,September,2022,69,Florida
+NM,Biological,Yes,No,Yes,Yes,January,2020,69,New Mexico
+PA,Hurricane,No,No,No,Yes,October,2012,68,Pennsylvania
+AL,Hurricane,No,No,No,Yes,September,2017,68,Alabama
+AL,Hurricane,No,No,No,Yes,September,2020,68,Alabama
+VA,Severe Storm,No,No,Yes,Yes,June,2012,68,Virginia
+FL,Hurricane,No,No,No,Yes,September,2017,68,Florida
+AL,Severe Storm,No,No,No,Yes,April,2011,67,Alabama
+PA,Biological,No,No,No,Yes,January,2020,67,Pennsylvania
+PA,Biological,Yes,No,Yes,Yes,January,2020,67,Pennsylvania
+CO,Biological,Yes,No,Yes,Yes,January,2020,66,Colorado
+NY,Biological,No,No,No,Yes,January,2020,66,New York
+CO,Biological,No,No,No,Yes,January,2020,66,Colorado
+TX,Severe Storm,No,No,Yes,Yes,May,2015,66,Texas
+NC,Hurricane,No,No,No,Yes,October,2016,66,North Carolina
+MT,Biological,No,No,No,Yes,January,2020,65,Montana
+IL,Snowstorm,No,No,Yes,Yes,January,2011,65,Illinois
+LA,Severe Ice Storm,No,No,No,Yes,February,2021,64,Louisiana
+LA,Hurricane,No,No,No,Yes,August,2021,64,Louisiana
+LA,Coastal Storm,No,No,No,Yes,September,2021,64,Louisiana
+MT,Biological,Yes,No,Yes,Yes,January,2020,64,Montana
+NY,Biological,Yes,No,Yes,Yes,January,2020,64,New York
+LA,Hurricane,No,No,No,Yes,August,2020,64,Louisiana
+LA,Hurricane,No,No,No,Yes,September,2020,64,Louisiana
+LA,Coastal Storm,No,No,No,Yes,June,2020,64,Louisiana
+NY,Hurricane,No,No,No,Yes,October,2012,62,New York
+TX,Hurricane,No,No,No,Yes,August,2020,62,Texas
+MO,Severe Storm,No,No,Yes,Yes,January,2011,62,Missouri
+KY,Severe Storm,No,No,Yes,Yes,February,2019,61,Kentucky
+MO,Severe Storm,No,No,Yes,Yes,April,2019,61,Missouri
+NE,Flood,No,No,Yes,Yes,March,2019,61,Nebraska
+NE,Severe Storm,No,No,Yes,Yes,June,2010,61,Nebraska
+OK,Severe Ice Storm,No,No,Yes,Yes,February,2021,60,Oklahoma
+TN,Flood,No,No,Yes,Yes,February,2019,59,Tennessee
+ND,Biological,No,No,No,Yes,January,2020,59,North Dakota
+KY,Flood,No,No,Yes,Yes,March,2015,59,Kentucky
+CA,Biological,Yes,No,Yes,Yes,January,2020,58,California
+CA,Biological,No,No,No,Yes,January,2020,58,California
+ND,Biological,Yes,No,Yes,Yes,January,2020,58,North Dakota
+KY,Flood,No,No,Yes,Yes,February,2018,57,Kentucky
+KY,Severe Storm,No,No,Yes,Yes,April,2011,57,Kentucky
+FL,Hurricane,No,No,Yes,Yes,November,2022,57,Florida
+WV,Severe Storm,No,No,No,Yes,June,2012,55,West Virginia
+WV,Biological,No,No,No,Yes,January,2020,55,West Virginia
+KS,Severe Storm,No,No,Yes,Yes,December,2021,55,Kansas
+FL,Hurricane,Yes,No,Yes,Yes,September,2017,55,Florida
+KY,Severe Storm,Yes,No,Yes,Yes,May,2010,55,Kentucky
+WV,Hurricane,No,No,No,Yes,October,2012,55,West Virginia
+MN,Flood,No,No,Yes,Yes,March,2019,55,Minnesota
+WV,Biological,Yes,No,Yes,Yes,January,2020,55,West Virginia
+FL,Tropical Storm,No,No,No,Yes,November,2022,54,Florida
+TN,Severe Storm,No,No,Yes,Yes,April,2011,53,Tennessee
+TX,Severe Storm,No,No,Yes,Yes,December,2015,51,Texas
+OK,Severe Ice Storm,No,No,Yes,Yes,January,2010,50,Oklahoma
+AK,Biological,Yes,No,No,Yes,January,2020,50,Alaska
+GA,Hurricane,No,No,Yes,Yes,October,2018,49,Georgia
+IA,Severe Storm,No,No,Yes,Yes,May,2013,49,Iowa
+VA,Hurricane,No,No,Yes,Yes,August,2011,48,Virginia
+SC,Hurricane,No,No,No,Yes,September,2017,47,South Carolina
+SC,Hurricane,No,No,No,Yes,August,2019,47,South Carolina
+SC,Hurricane,No,No,Yes,Yes,September,2017,47,South Carolina
+SC,Severe Storm,No,No,No,Yes,October,2015,47,South Carolina
+SC,Hurricane,No,No,No,Yes,October,2016,47,South Carolina
+SC,Hurricane,No,No,No,Yes,September,2018,47,South Carolina
+SC,Biological,Yes,No,Yes,Yes,January,2020,47,South Carolina
+SC,Biological,No,No,No,Yes,January,2020,47,South Carolina
+SC,Severe Ice Storm,No,No,No,Yes,February,2014,46,South Carolina
+SD,Flood,No,No,Yes,Yes,March,2019,46,South Dakota
+TN,Severe Storm,Yes,No,Yes,Yes,April,2010,46,Tennessee
+KS,Severe Storm,No,No,Yes,Yes,July,2013,46,Kansas
+MN,Severe Storm,No,No,Yes,Yes,May,2022,46,Minnesota
+SC,Hurricane,No,No,No,Yes,September,2022,46,South Carolina
+NC,Hurricane,Yes,No,Yes,Yes,October,2016,45,North Carolina
+GA,Severe Ice Storm,No,No,Yes,Yes,February,2014,45,Georgia
+KY,Severe Ice Storm,No,No,Yes,Yes,February,2021,45,Kentucky
+TN,Severe Ice Storm,No,No,Yes,Yes,February,2015,45,Tennessee
+CA,Flood,No,No,Yes,Yes,February,2017,44,California
+TX,Severe Storm,Yes,No,Yes,Yes,May,2015,44,Texas
+KS,Severe Storm,No,No,Yes,Yes,May,2015,44,Kansas
+ID,Biological,Yes,No,Yes,Yes,January,2020,44,Idaho
+NV,Biological,No,No,No,Yes,January,2020,44,Nevada
+ID,Biological,No,No,No,Yes,January,2020,44,Idaho
+NV,Biological,Yes,No,Yes,Yes,January,2020,44,Nevada
+FL,Hurricane,No,No,Yes,Yes,September,2022,43,Florida
+CA,Flood,No,No,No,Yes,March,2023,43,California
+LA,Hurricane,No,No,Yes,Yes,August,2020,43,Louisiana
+AL,Severe Storm,Yes,No,Yes,Yes,April,2011,43,Alabama
+SC,Hurricane,No,No,Yes,Yes,September,2022,43,South Carolina
+PA,Flood,No,No,No,Yes,September,2011,43,Pennsylvania
+MS,Hurricane,No,No,No,Yes,October,2020,42,Mississippi
+OK,Severe Storm,No,No,Yes,Yes,December,2015,42,Oklahoma
+OK,Severe Storm,Yes,No,Yes,Yes,May,2015,41,Oklahoma
+TX,Hurricane,Yes,No,Yes,Yes,August,2017,41,Texas
+LA,Coastal Storm,No,No,No,Yes,July,2019,41,Louisiana
+LA,Severe Ice Storm,No,No,Yes,Yes,February,2021,41,Louisiana
+KY,Snowstorm,No,No,Yes,Yes,February,2015,41,Kentucky
+KS,Severe Storm,No,No,Yes,Yes,June,2010,41,Kansas
+CA,Flood,No,No,No,Yes,January,2023,41,California
+AL,Hurricane,No,No,No,Yes,October,2017,40,Alabama
+MN,Flood,No,No,Yes,Yes,June,2014,40,Minnesota
+WA,Biological,No,No,No,Yes,January,2020,40,Washington
+ND,Severe Storm,No,No,Yes,Yes,April,2022,40,North Dakota
+WA,Biological,Yes,No,Yes,Yes,January,2020,39,Washington
+OH,Severe Storm,No,No,Yes,Yes,June,2012,39,Ohio
+AL,Severe Storm,No,No,Yes,Yes,December,2015,39,Alabama
+LA,Hurricane,No,No,Yes,Yes,August,2021,39,Louisiana
+VA,Snowstorm,No,No,Yes,Yes,February,2010,38,Virginia
+ND,Flood,No,No,Yes,Yes,February,2011,38,North Dakota
+NC,Hurricane,Yes,No,Yes,Yes,August,2011,37,North Carolina
+SD,Flood,No,No,Yes,Yes,March,2010,37,South Dakota
+MS,Severe Ice Storm,No,No,Yes,Yes,February,2021,37,Mississippi
+FL,Severe Storm,No,No,No,Yes,July,2021,37,Florida
+AK,Biological,No,No,No,Yes,January,2020,37,Alaska
+NE,Flood,No,No,Yes,Yes,March,2010,37,Nebraska
+AZ,Biological,Yes,No,Yes,Yes,January,2020,37,Arizona
+MO,Severe Storm,No,No,Yes,Yes,June,2010,37,Missouri
+FL,Hurricane,No,No,No,Yes,October,2018,37,Florida
+UT,Biological,No,No,No,Yes,January,2020,36,Utah
+IA,Severe Storm,Yes,No,Yes,Yes,June,2010,36,Iowa
+UT,Biological,Yes,No,Yes,Yes,January,2020,36,Utah
+TX,Flood,No,No,Yes,Yes,September,2018,36,Texas
+OR,Biological,Yes,No,Yes,Yes,January,2020,36,Oregon
+AZ,Biological,No,No,No,Yes,January,2020,36,Arizona
+VA,Hurricane,No,No,Yes,Yes,October,2018,36,Virginia
+OR,Biological,No,No,No,Yes,January,2020,36,Oregon
+IN,Severe Storm,No,No,Yes,Yes,April,2011,36,Indiana
+LA,Flood,Yes,No,Yes,Yes,March,2016,36,Louisiana
+CA,Severe Storm,No,No,Yes,Yes,January,2017,35,California
+SD,Flood,No,No,Yes,Yes,March,2011,35,South Dakota
+MS,Hurricane,No,No,No,Yes,August,2012,34,Mississippi
+GA,Severe Storm,No,No,Yes,Yes,December,2015,34,Georgia
+LA,Hurricane,No,No,No,Yes,August,2012,34,Louisiana
+NC,Hurricane,No,No,No,Yes,August,2011,34,North Carolina
+AR,Severe Storm,Yes,No,Yes,Yes,April,2011,34,Arkansas
+AK,Biological,Yes,No,Yes,Yes,January,2020,34,Alaska
+MN,Flood,No,No,Yes,Yes,March,2011,34,Minnesota
+MT,Severe Storm,Yes,No,Yes,Yes,April,2011,33,Montana
+KS,Severe Storm,No,No,No,Yes,May,2019,33,Kansas
+IA,Severe Storm,No,No,Yes,Yes,June,2014,33,Iowa
+LA,Flood,No,No,No,Yes,April,2011,33,Louisiana
+TX,Fire,No,No,No,Yes,April,2011,33,Texas
+VA,Severe Ice Storm,No,No,Yes,Yes,February,2021,33,Virginia
+NC,Hurricane,Yes,No,Yes,Yes,September,2018,33,North Carolina
+MO,Flood,Yes,No,Yes,Yes,April,2017,33,Missouri
+FL,Hurricane,Yes,No,Yes,Yes,September,2022,32,Florida
+TX,Hurricane,No,No,No,Yes,July,2020,32,Texas
+VA,Hurricane,No,No,Yes,Yes,September,2018,32,Virginia
+SD,Severe Storm,No,No,Yes,Yes,January,2010,32,South Dakota
+WV,Severe Storm,No,No,Yes,Yes,March,2015,32,West Virginia
+CA,Severe Storm,No,No,Yes,Yes,February,2019,32,California
+IA,Severe Storm,No,No,Yes,Yes,June,2018,31,Iowa
+MS,Severe Storm,No,No,Yes,Yes,April,2020,31,Mississippi
+PR,Hurricane,Yes,No,Yes,Yes,August,2011,31,Puerto Rico
+OR,Fire,No,No,Yes,Yes,September,2020,31,Oregon
+NE,Snowstorm,No,No,Yes,Yes,April,2018,31,Nebraska
+MN,Flood,No,No,Yes,Yes,June,2018,31,Minnesota
+GA,Hurricane,No,No,No,Yes,October,2016,30,Georgia
+VA,Hurricane,No,No,No,Yes,August,2011,30,Virginia
+ND,Flood,No,No,Yes,Yes,February,2010,30,North Dakota
+VA,Snowstorm,No,No,Yes,Yes,January,2016,30,Virginia
+TX,Fire,No,No,Yes,Yes,August,2011,30,Texas
+NE,Flood,Yes,No,Yes,Yes,March,2019,30,Nebraska
+NC,Hurricane,No,No,No,Yes,September,2010,30,North Carolina
+CA,Flood,No,No,Yes,Yes,December,2022,30,California
+IN,Severe Storm,No,No,Yes,Yes,January,2014,30,Indiana
+LA,Hurricane,No,No,Yes,Yes,August,2012,29,Louisiana
+MN,Severe Storm,No,No,Yes,Yes,September,2010,29,Minnesota
+MN,Flood,No,No,No,Yes,March,2010,29,Minnesota
+OK,Severe Ice Storm,No,No,Yes,Yes,October,2020,29,Oklahoma
+NE,Severe Storm,No,No,Yes,Yes,May,2015,28,Nebraska
+FL,Hurricane,No,No,No,Yes,October,2016,28,Florida
+IL,Flood,Yes,No,Yes,Yes,April,2013,28,Illinois
+MO,Flood,No,No,No,Yes,June,2011,28,Missouri
+WA,Biological,No,No,Yes,No,January,2020,28,Washington
+MO,Severe Storm,No,No,Yes,Yes,May,2013,28,Missouri
+NY,Snowstorm,No,No,Yes,Yes,March,2017,28,New York
+VA,Severe Storm,No,No,Yes,Yes,January,2022,28,Virginia
+IL,Flood,No,No,Yes,Yes,February,2019,28,Illinois
+MN,Flood,No,No,Yes,Yes,March,2010,28,Minnesota
+VA,Hurricane,No,No,Yes,Yes,October,2012,28,Virginia
+NY,Hurricane,Yes,No,Yes,Yes,August,2011,28,New York
+PA,Snowstorm,No,No,Yes,Yes,February,2010,27,Pennsylvania
+WV,Severe Storm,No,No,Yes,Yes,June,2012,27,West Virginia
+KY,Severe Storm,No,No,Yes,Yes,February,2020,27,Kentucky
+SD,Severe Storm,No,No,Yes,Yes,December,2016,27,South Dakota
+SD,Flood,No,No,Yes,Yes,May,2019,27,South Dakota
+IA,Severe Storm,No,No,Yes,Yes,January,2010,27,Iowa
+KS,Snowstorm,No,No,Yes,Yes,April,2017,27,Kansas
+MS,Hurricane,No,No,Yes,Yes,August,2012,27,Mississippi
+OK,Severe Storm,Yes,No,Yes,Yes,May,2019,27,Oklahoma
+IA,Flood,No,No,Yes,Yes,June,2014,27,Iowa
+AR,Severe Storm,No,No,Yes,Yes,December,2015,27,Arkansas
+LA,Hurricane,Yes,No,Yes,Yes,August,2012,26,Louisiana
+KY,Severe Storm,No,No,Yes,Yes,July,2015,26,Kentucky
+NC,Hurricane,No,No,Yes,Yes,September,2019,26,North Carolina
+NY,Hurricane,No,No,No,Yes,August,2021,26,New York
+ND,Severe Storm,No,No,Yes,Yes,January,2010,26,North Dakota
+LA,Hurricane,No,No,Yes,Yes,July,2019,26,Louisiana
+NM,Flood,No,No,Yes,Yes,September,2013,26,New Mexico
+TN,Severe Storm,Yes,No,Yes,Yes,April,2011,25,Tennessee
+MS,Severe Storm,Yes,No,Yes,Yes,April,2011,25,Mississippi
+KY,Flood,Yes,No,Yes,Yes,February,2021,25,Kentucky
+OK,Severe Storm,No,No,Yes,Yes,May,2019,25,Oklahoma
+TX,Hurricane,No,No,No,Yes,June,2010,25,Texas
+KS,Severe Storm,No,No,Yes,Yes,May,2011,25,Kansas
+LA,Hurricane,Yes,No,Yes,Yes,August,2021,25,Louisiana
+NE,Severe Storm,No,No,Yes,Yes,December,2021,25,Nebraska
+IA,Severe Storm,No,No,Yes,Yes,December,2021,25,Iowa
+MS,Hurricane,No,No,No,Yes,September,2020,24,Mississippi
+PR,Hurricane,No,No,Yes,Yes,August,2011,24,Puerto Rico
+WY,Biological,No,No,No,Yes,January,2020,24,Wyoming
+PA,Flood,Yes,No,Yes,Yes,September,2011,24,Pennsylvania
+AL,Severe Storm,No,No,Yes,Yes,April,2011,24,Alabama
+WA,Flood,No,No,Yes,Yes,December,2021,24,Washington
+MD,Biological,No,No,No,Yes,January,2020,24,Maryland
+MD,Hurricane,No,No,No,Yes,October,2012,24,Maryland
+WY,Biological,Yes,No,Yes,Yes,January,2020,24,Wyoming
+SC,Hurricane,Yes,No,Yes,Yes,October,2016,24,South Carolina
+NE,Severe Storm,No,No,Yes,Yes,June,2014,24,Nebraska
+MD,Biological,Yes,No,Yes,Yes,January,2020,24,Maryland
+MS,Hurricane,No,No,No,Yes,August,2020,24,Mississippi
+PA,Snowstorm,No,No,Yes,Yes,January,2016,23,Pennsylvania
+IA,Severe Storm,No,No,Yes,Yes,June,2010,23,Iowa
+FL,Hurricane,No,No,No,Yes,August,2021,23,Florida
+NY,Flood,No,No,Yes,Yes,April,2011,23,New York
+WA,Fire,No,No,Yes,Yes,August,2015,23,Washington
+LA,Severe Ice Storm,Yes,No,Yes,Yes,February,2021,23,Louisiana
+MD,Hurricane,No,No,No,Yes,August,2011,23,Maryland
+MD,Hurricane,No,No,Yes,Yes,October,2012,23,Maryland
+SC,Flood,Yes,No,Yes,Yes,October,2015,23,South Carolina
+GA,Severe Storm,Yes,No,Yes,Yes,April,2011,23,Georgia
+MO,Flood,Yes,No,Yes,Yes,December,2015,23,Missouri
+NJ,Biological,Yes,No,Yes,Yes,January,2020,23,New Jersey
+TN,Severe Storm,No,No,Yes,Yes,June,2014,23,Tennessee
+CA,Fire,No,No,Yes,Yes,August,2020,23,California
+AR,Severe Storm,No,No,Yes,Yes,April,2011,23,Arkansas
+KS,Snowstorm,No,No,Yes,Yes,February,2013,23,Kansas
+MO,Severe Storm,Yes,No,Yes,Yes,April,2019,22,Missouri
+OH,Flood,No,No,Yes,Yes,February,2018,22,Ohio
+MD,Snowstorm,No,No,Yes,Yes,February,2010,22,Maryland
+MS,Hurricane,Yes,No,Yes,Yes,August,2012,22,Mississippi
+SC,Severe Ice Storm,No,No,Yes,Yes,February,2014,22,South Carolina
+CA,Flood,No,No,Yes,Yes,January,2017,22,California
+PR,Hurricane,No,No,Yes,Yes,September,2017,22,Puerto Rico
+TX,Flood,Yes,No,Yes,Yes,May,2016,22,Texas
+MO,Severe Storm,Yes,No,Yes,Yes,April,2011,22,Missouri
+LA,Flood,Yes,No,Yes,Yes,August,2016,22,Louisiana
+ND,Flood,No,No,No,Yes,April,2011,22,North Dakota
+MS,Severe Storm,No,No,Yes,Yes,February,2019,22,Mississippi
+SD,Severe Storm,No,No,Yes,Yes,May,2022,22,South Dakota
+WV,Mud/Landslide,No,No,Yes,Yes,February,2018,21,West Virginia
+NC,Hurricane,No,No,Yes,Yes,October,2018,21,North Carolina
+MO,Severe Storm,No,No,Yes,Yes,June,2021,21,Missouri
+LA,Hurricane,Yes,No,Yes,Yes,August,2020,21,Louisiana
+OK,Severe Ice Storm,No,No,Yes,Yes,November,2015,21,Oklahoma
+NJ,Hurricane,No,No,No,Yes,September,2021,21,New Jersey
+OH,Severe Storm,No,No,Yes,Yes,April,2011,21,Ohio
+OK,Severe Storm,No,No,Yes,Yes,April,2017,21,Oklahoma
+TN,Tornado,No,No,Yes,Yes,March,2021,21,Tennessee
+OH,Flood,No,No,Yes,Yes,February,2019,21,Ohio
+ND,Severe Storm,No,No,Yes,Yes,May,2013,21,North Dakota
+NJ,Biological,No,No,No,Yes,January,2020,21,New Jersey
+PR,Severe Storm,No,No,Yes,Yes,October,2010,21,Puerto Rico
+NJ,Hurricane,No,No,No,Yes,October,2012,21,New Jersey
+NJ,Hurricane,Yes,No,Yes,Yes,August,2011,21,New Jersey
+NJ,Hurricane,Yes,No,Yes,Yes,October,2012,21,New Jersey
+WA,Fire,No,No,Yes,Yes,September,2020,21,Washington
+KY,Severe Storm,No,No,Yes,Yes,May,2010,21,Kentucky
+NJ,Hurricane,No,No,No,Yes,August,2011,21,New Jersey
+GA,Hurricane,No,No,Yes,Yes,October,2020,21,Georgia
+LA,Hurricane,No,No,Yes,Yes,August,2017,20,Louisiana
+ND,Flood,No,No,Yes,Yes,April,2020,20,North Dakota
+KS,Severe Ice Storm,No,No,Yes,Yes,January,2017,20,Kansas
+KS,Snowstorm,No,No,Yes,Yes,March,2022,20,Kansas
+WV,Flood,No,No,Yes,Yes,April,2015,20,West Virginia
+PR,Earthquake,Yes,No,Yes,No,December,2019,20,Puerto Rico
+NE,Severe Storm,No,No,Yes,Yes,May,2022,20,Nebraska
+NC,Flood,No,No,Yes,Yes,July,2013,20,North Carolina
+KY,Severe Storm,No,No,Yes,Yes,July,2016,20,Kentucky
+TN,Severe Storm,No,No,Yes,Yes,May,2020,20,Tennessee
+IA,Flood,No,No,Yes,Yes,April,2013,20,Iowa
+WV,Severe Storm,Yes,No,Yes,Yes,June,2012,20,West Virginia
+AR,Severe Storm,No,No,Yes,Yes,May,2015,20,Arkansas
+GA,Hurricane,Yes,No,Yes,Yes,October,2018,20,Georgia
+WI,Flood,No,No,Yes,Yes,July,2019,20,Wisconsin
+MT,Severe Storm,No,No,Yes,Yes,April,2011,20,Montana
+WV,Snowstorm,No,No,Yes,Yes,February,2010,20,West Virginia
+MO,Flood,No,No,Yes,Yes,April,2017,20,Missouri
+MO,Severe Storm,No,No,Yes,Yes,September,2014,20,Missouri
+MS,Severe Storm,No,No,Yes,Yes,October,2019,19,Mississippi
+FL,Hurricane,No,No,No,Yes,July,2020,19,Florida
+KY,Flood,No,No,Yes,Yes,February,2021,19,Kentucky
+TX,Fire,Yes,No,Yes,Yes,August,2011,19,Texas
+MO,Flood,No,No,Yes,Yes,December,2015,19,Missouri
+KY,Flood,No,No,Yes,Yes,April,2015,19,Kentucky
+AL,Hurricane,No,No,No,Yes,October,2018,19,Alabama
+TX,Flood,No,No,Yes,Yes,May,2016,19,Texas
+NE,Severe Storm,No,No,Yes,Yes,June,2017,19,Nebraska
+MD,Snowstorm,No,No,Yes,Yes,January,2016,19,Maryland
+SD,Winter Storm,No,No,Yes,Yes,December,2022,19,South Dakota
+UT,Flood,No,No,Yes,Yes,April,2011,19,Utah
+ND,Flood,No,No,No,Yes,February,2010,19,North Dakota
+LA,Hurricane,No,No,No,Yes,October,2017,19,Louisiana
+IA,Severe Storm,No,No,Yes,Yes,June,2015,19,Iowa
+AL,Severe Storm,No,No,Yes,Yes,February,2020,19,Alabama
+OK,Severe Storm,No,No,Yes,Yes,April,2019,19,Oklahoma
+IA,Flood,No,No,Yes,Yes,September,2016,19,Iowa
+KY,Severe Storm,Yes,No,Yes,Yes,April,2011,19,Kentucky
+NC,Severe Storm,No,No,Yes,Yes,February,2020,19,North Carolina
+MO,Severe Storm,No,No,Yes,Yes,May,2020,19,Missouri
+ND,Flood,No,No,Yes,Yes,March,2019,19,North Dakota
+IN,Flood,Yes,No,Yes,Yes,February,2018,19,Indiana
+NC,Severe Storm,No,No,Yes,Yes,November,2020,19,North Carolina
+MN,Flood,No,No,Yes,Yes,April,2022,19,Minnesota
+FL,Severe Storm,Yes,No,Yes,Yes,June,2012,18,Florida
+MN,Severe Storm,No,No,Yes,Yes,June,2012,18,Minnesota
+MO,Severe Storm,No,No,Yes,Yes,August,2013,18,Missouri
+NC,Severe Storm,Yes,No,Yes,Yes,April,2011,18,North Carolina
+NE,Flood,No,No,No,Yes,June,2011,18,Nebraska
+LA,Hurricane,Yes,No,Yes,Yes,October,2020,18,Louisiana
+FL,Hurricane,No,No,Yes,Yes,September,2017,18,Florida
+WV,Hurricane,No,No,Yes,Yes,October,2012,18,West Virginia
+ND,Flood,No,No,Yes,Yes,October,2019,18,North Dakota
+PA,Hurricane,No,No,Yes,Yes,October,2012,18,Pennsylvania
+MN,Severe Storm,No,No,Yes,Yes,June,2013,18,Minnesota
+OK,Severe Storm,No,No,Yes,Yes,May,2015,18,Oklahoma
+NC,Hurricane,No,No,Yes,Yes,September,2018,18,North Carolina
+AR,Flood,No,No,No,Yes,May,2019,17,Arkansas
+OK,Severe Ice Storm,Yes,No,Yes,Yes,February,2021,17,Oklahoma
+ND,Flood,No,No,Yes,Yes,April,2013,17,North Dakota
+AL,Severe Storm,No,No,Yes,Yes,April,2020,17,Alabama
+NJ,Severe Storm,No,No,Yes,Yes,January,2016,17,New Jersey
+OK,Severe Storm,No,No,Yes,Yes,February,2013,17,Oklahoma
+NY,Hurricane,No,No,No,Yes,August,2011,17,New York
+MS,Flood,Yes,No,Yes,Yes,March,2016,16,Mississippi
+SD,Severe Storm,Yes,No,Yes,Yes,October,2013,16,South Dakota
+OK,Severe Storm,No,No,Yes,Yes,January,2011,16,Oklahoma
+NC,Hurricane,No,No,Yes,Yes,July,2020,16,North Carolina
+MO,Severe Storm,No,No,Yes,Yes,April,2011,16,Missouri
+NY,Flood,No,No,Yes,Yes,June,2013,16,New York
+MA,Biological,No,No,No,Yes,January,2020,16,Massachusetts
+GA,Severe Ice Storm,No,No,Yes,Yes,February,2015,16,Georgia
+CA,Fire,No,No,Yes,Yes,October,2017,16,California
+OK,Tornado,No,No,Yes,Yes,May,2017,16,Oklahoma
+KY,Tornado,No,No,No,Yes,December,2021,16,Kentucky
+WA,Severe Storm,No,No,Yes,Yes,November,2015,16,Washington
+MO,Flood,No,No,Yes,Yes,March,2019,16,Missouri
+NY,Severe Storm,No,No,No,Yes,October,2019,16,New York
+MI,Flood,No,No,Yes,Yes,April,2013,16,Michigan
+AR,Severe Storm,No,No,Yes,Yes,April,2017,16,Arkansas
+WY,Severe Storm,No,No,Yes,Yes,May,2011,16,Wyoming
+MN,Severe Storm,No,No,Yes,Yes,July,2011,16,Minnesota
+KY,Tornado,Yes,No,Yes,Yes,December,2021,16,Kentucky
+NY,Severe Storm,No,No,No,Yes,September,2011,15,New York
+FL,Hurricane,No,No,Yes,Yes,August,2016,15,Florida
+NJ,Snowstorm,No,No,Yes,Yes,December,2010,15,New Jersey
+CO,Flood,No,No,Yes,Yes,May,2015,15,Colorado
+CO,Flood,No,No,No,Yes,September,2013,15,Colorado
+PA,Hurricane,No,No,No,Yes,August,2011,15,Pennsylvania
+WA,Fire,No,No,No,Yes,August,2015,15,Washington
+MT,Flood,No,No,Yes,Yes,March,2014,15,Montana
+MD,Hurricane,No,No,Yes,Yes,August,2011,15,Maryland
+IL,Tornado,Yes,No,Yes,No,November,2013,15,Illinois
+WA,Flood,No,No,Yes,Yes,January,2020,15,Washington
+CA,Fire,Yes,No,Yes,Yes,August,2020,15,California
+TX,Flood,Yes,No,Yes,Yes,April,2016,15,Texas
+IL,Severe Storm,Yes,No,Yes,Yes,April,2011,15,Illinois
+WA,Flood,No,No,Yes,Yes,January,2017,15,Washington
+WA,Severe Storm,No,No,No,Yes,December,2020,15,Washington
+GA,Tornado,No,No,Yes,Yes,January,2017,15,Georgia
+SD,Flood,Yes,No,Yes,Yes,March,2019,15,South Dakota
+MT,Flood,No,No,Yes,Yes,May,2013,15,Montana
+LA,Flood,No,No,Yes,Yes,April,2011,15,Louisiana
+MS,Severe Storm,No,No,Yes,Yes,February,2020,15,Mississippi
+MA,Hurricane,No,No,No,Yes,October,2012,14,Massachusetts
+IL,Tornado,No,No,No,Yes,December,2021,14,Illinois
+VT,Biological,No,No,No,Yes,January,2020,14,Vermont
+MA,Hurricane,No,No,No,Yes,August,2011,14,Massachusetts
+AZ,Severe Storm,No,No,Yes,Yes,January,2010,14,Arizona
+TX,Fire,No,No,No,Yes,August,2011,14,Texas
+OR,Severe Storm,No,No,Yes,Yes,December,2015,14,Oregon
+LA,Flood,No,No,Yes,Yes,May,2019,14,Louisiana
+SD,Severe Storm,No,No,Yes,Yes,June,2015,14,South Dakota
+AL,Hurricane,No,No,Yes,Yes,October,2020,14,Alabama
+KS,Severe Storm,No,No,Yes,Yes,April,2012,14,Kansas
+MA,Severe Storm,No,No,Yes,Yes,February,2013,14,Massachusetts
+NM,Severe Storm,No,No,Yes,Yes,February,2011,14,New Mexico
+NE,Severe Storm,No,No,Yes,Yes,July,2021,14,Nebraska
+NC,Severe Storm,Yes,No,Yes,No,September,2010,14,North Carolina
+VT,Biological,Yes,No,Yes,Yes,January,2020,14,Vermont
+AR,Severe Ice Storm,No,No,Yes,Yes,December,2013,14,Arkansas
+SD,Severe Storm,Yes,No,Yes,Yes,September,2019,14,South Dakota
+TN,Severe Storm,No,No,Yes,Yes,May,2017,14,Tennessee
+KS,Severe Storm,No,No,Yes,Yes,October,2018,14,Kansas
+KY,Severe Storm,Yes,No,Yes,Yes,February,2012,14,Kentucky
+PR,Earthquake,Yes,No,Yes,Yes,December,2019,14,Puerto Rico
+VT,Hurricane,No,No,No,Yes,August,2021,14,Vermont
+MA,Biological,Yes,No,Yes,Yes,January,2020,14,Massachusetts
+FL,Hurricane,No,No,Yes,Yes,August,2019,14,Florida
+CA,Flood,Yes,No,Yes,Yes,December,2022,14,California
+VT,Hurricane,No,No,No,Yes,August,2011,14,Vermont
+MS,Flood,No,No,No,Yes,April,2011,14,Mississippi
+AR,Severe Storm,Yes,No,Yes,Yes,April,2017,14,Arkansas
+NY,Hurricane,No,No,No,Yes,September,2021,14,New York
+ND,Severe Storm,No,No,Yes,Yes,April,2010,13,North Dakota
+KY,Severe Storm,No,No,Yes,Yes,December,2021,13,Kentucky
+KS,Severe Storm,No,No,Yes,Yes,September,2016,13,Kansas
+MS,Flood,Yes,No,Yes,Yes,May,2011,13,Mississippi
+PR,Severe Storm,No,No,Yes,Yes,May,2011,13,Puerto Rico
+AR,Flood,Yes,No,Yes,Yes,May,2019,13,Arkansas
+NJ,Severe Storm,Yes,No,Yes,Yes,March,2010,13,New Jersey
+TX,Fire,No,No,No,Yes,September,2011,13,Texas
+ME,Severe Storm,No,No,Yes,Yes,October,2017,13,Maine
+NY,Hurricane,Yes,No,Yes,Yes,October,2012,13,New York
+FL,Hurricane,No,No,No,Yes,September,2020,13,Florida
+SD,Flood,No,No,Yes,Yes,June,2014,13,South Dakota
+TX,Flood,Yes,No,Yes,Yes,March,2016,13,Texas
+TN,Severe Ice Storm,No,No,Yes,Yes,February,2021,13,Tennessee
+MN,Tornado,No,No,Yes,Yes,June,2010,13,Minnesota
+TN,Severe Storm,No,No,Yes,Yes,February,2011,13,Tennessee
+FL,Hurricane,No,No,No,Yes,November,2020,13,Florida
+MS,Severe Storm,No,No,Yes,Yes,January,2020,13,Mississippi
+KY,Flood,Yes,No,Yes,Yes,July,2022,13,Kentucky
+FL,Severe Storm,No,No,Yes,Yes,June,2012,12,Florida
+WV,Flood,Yes,No,Yes,Yes,June,2016,12,West Virginia
+AL,Severe Storm,No,No,Yes,Yes,April,2014,12,Alabama
+OR,Flood,No,No,Yes,Yes,January,2012,12,Oregon
+AR,Severe Storm,No,No,Yes,Yes,March,2016,12,Arkansas
+FL,Hurricane,No,No,Yes,Yes,August,2012,12,Florida
+GA,Hurricane,No,No,No,Yes,August,2019,12,Georgia
+NM,Severe Storm,No,No,Yes,Yes,July,2013,12,New Mexico
+IL,Flood,No,No,Yes,Yes,April,2013,12,Illinois
+NJ,Hurricane,Yes,No,Yes,Yes,September,2021,12,New Jersey
+CT,Biological,Yes,No,Yes,Yes,January,2020,12,Connecticut
+SC,Hurricane,No,No,Yes,Yes,August,2019,12,South Carolina
+IA,Severe Storm,No,No,Yes,Yes,August,2020,12,Iowa
+IA,Severe Storm,No,No,Yes,Yes,June,2013,12,Iowa
+OK,Tornado,No,No,Yes,Yes,May,2013,12,Oklahoma
+AL,Severe Storm,No,No,Yes,Yes,February,2019,12,Alabama
+NE,Severe Storm,No,No,Yes,Yes,June,2011,12,Nebraska
+NY,Severe Storm,Yes,No,Yes,Yes,September,2011,12,New York
+LA,Hurricane,No,No,No,Yes,August,2017,12,Louisiana
+AL,Hurricane,No,No,Yes,Yes,September,2020,12,Alabama
+TX,Fire,No,No,No,Yes,June,2011,12,Texas
+TX,Hurricane,No,No,Yes,Yes,June,2010,12,Texas
+SD,Severe Storm,No,No,Yes,Yes,July,2010,12,South Dakota
+TX,Hurricane,No,No,Yes,Yes,August,2017,12,Texas
+OK,Fire,No,No,No,Yes,August,2011,12,Oklahoma
+AR,Tornado,No,No,Yes,Yes,April,2020,12,Arkansas
+IA,Severe Storm,Yes,No,Yes,Yes,August,2020,12,Iowa
+VT,Hurricane,Yes,No,Yes,Yes,August,2011,12,Vermont
+FL,Hurricane,Yes,No,Yes,Yes,October,2018,12,Florida
+MS,Flood,No,No,Yes,Yes,March,2016,12,Mississippi
+SC,Flood,No,No,Yes,Yes,October,2015,12,South Carolina
+ID,Flood,No,No,Yes,Yes,February,2017,11,Idaho
+KS,Fire,No,No,Yes,Yes,March,2017,11,Kansas
+NY,Severe Storm,No,No,Yes,Yes,May,2014,11,New York
+OK,Severe Storm,No,No,Yes,Yes,April,2011,11,Oklahoma
+NJ,Hurricane,No,No,Yes,Yes,August,2020,11,New Jersey
+ID,Flood,No,No,Yes,Yes,March,2017,11,Idaho
+MS,Severe Storm,No,No,Yes,Yes,April,2011,11,Mississippi
+WI,Severe Storm,No,No,Yes,Yes,July,2017,11,Wisconsin
+TX,Severe Storm,Yes,No,Yes,Yes,October,2015,11,Texas
+PA,Severe Storm,No,No,Yes,Yes,June,2013,11,Pennsylvania
+NE,Flood,Yes,No,Yes,Yes,May,2011,11,Nebraska
+OR,Biological,No,No,Yes,No,January,2020,11,Oregon
+TN,Winter Storm,No,No,Yes,Yes,December,2022,11,Tennessee
+MS,Severe Storm,No,No,Yes,Yes,December,2018,11,Mississippi
+LA,Severe Storm,No,No,Yes,Yes,January,2013,11,Louisiana
+NE,Severe Storm,No,No,Yes,Yes,June,2018,11,Nebraska
+CO,Flood,Yes,No,Yes,Yes,September,2013,11,Colorado
+NY,Winter Storm,No,No,No,Yes,November,2022,11,New York
+PA,Severe Storm,No,No,Yes,Yes,August,2018,11,Pennsylvania
+SD,Severe Storm,No,No,Yes,Yes,September,2019,11,South Dakota
+WA,Severe Storm,No,No,Yes,Yes,January,2012,11,Washington
+TN,Tornado,Yes,No,Yes,Yes,December,2021,11,Tennessee
+AR,Severe Storm,No,No,Yes,Yes,May,2013,11,Arkansas
+CA,Fire,No,No,Yes,Yes,September,2020,11,California
+TX,Flood,No,No,Yes,Yes,April,2016,11,Texas
+OK,Severe Storm,No,No,Yes,Yes,January,2017,11,Oklahoma
+OR,Fire,No,No,No,Yes,September,2020,11,Oregon
+NJ,Severe Storm,No,No,Yes,Yes,October,2011,11,New Jersey
+PA,Hurricane,Yes,No,Yes,Yes,August,2011,11,Pennsylvania
+ND,Flood,No,No,Yes,Yes,March,2017,11,North Dakota
+LA,Flood,No,No,No,Yes,May,2019,11,Louisiana
+SC,Hurricane,No,No,Yes,Yes,September,2018,11,South Carolina
+VT,Severe Storm,No,No,Yes,Yes,December,2014,10,Vermont
+CA,Fire,Yes,No,Yes,Yes,September,2020,10,California
+WI,Flood,No,No,Yes,Yes,September,2016,10,Wisconsin
+MA,Hurricane,No,No,No,Yes,September,2010,10,Massachusetts
+PR,Severe Storm,No,No,Yes,Yes,May,2010,10,Puerto Rico
+VT,Severe Storm,No,No,Yes,Yes,October,2017,10,Vermont
+NE,Severe Storm,No,No,Yes,Yes,April,2017,10,Nebraska
+CT,Hurricane,No,No,No,Yes,August,2021,10,Connecticut
+NE,Severe Storm,No,No,Yes,Yes,October,2013,10,Nebraska
+ND,Flood,No,No,Yes,Yes,June,2014,10,North Dakota
+TN,Severe Storm,No,No,Yes,Yes,August,2010,10,Tennessee
+NY,Hurricane,Yes,No,Yes,Yes,September,2021,10,New York
+CA,Flood,No,No,Yes,Yes,December,2010,10,California
+NH,Biological,Yes,No,Yes,Yes,January,2020,10,New Hampshire
+GA,Hurricane,No,No,Yes,Yes,October,2016,10,Georgia
+GA,Hurricane,Yes,No,Yes,Yes,October,2016,10,Georgia
+SC,Severe Storm,No,No,Yes,Yes,February,2020,10,South Carolina
+TN,Severe Storm,No,No,Yes,Yes,October,2019,10,Tennessee
+WI,Snowstorm,No,No,Yes,Yes,January,2011,10,Wisconsin
+NH,Hurricane,No,No,No,Yes,October,2012,10,New Hampshire
+TN,Severe Ice Storm,No,No,Yes,Yes,March,2014,10,Tennessee
+FL,Hurricane,Yes,No,Yes,Yes,August,2016,10,Florida
+WA,Flood,No,No,Yes,Yes,December,2015,10,Washington
+NH,Biological,No,No,No,Yes,January,2020,10,New Hampshire
+IA,Flood,Yes,No,Yes,Yes,March,2019,10,Iowa
+NH,Severe Storm,No,No,No,Yes,October,2011,10,New Hampshire
+MO,Flood,Yes,No,Yes,No,December,2015,10,Missouri
+MA,Severe Storm,No,No,Yes,Yes,January,2015,10,Massachusetts
+NH,Hurricane,No,No,No,Yes,August,2011,10,New Hampshire
+NY,Severe Storm,No,No,Yes,Yes,December,2010,10,New York
+CT,Hurricane,No,No,Yes,Yes,August,2020,10,Connecticut
+NM,Fire,No,No,No,Yes,June,2011,10,New Mexico
+ND,Flood,Yes,No,Yes,Yes,February,2011,10,North Dakota
+WA,Fire,No,No,No,Yes,July,2014,10,Washington
+TN,Severe Storm,Yes,No,Yes,No,February,2012,10,Tennessee
+OK,Flood,No,No,No,Yes,May,2019,10,Oklahoma
+CT,Hurricane,No,No,No,Yes,August,2020,10,Connecticut
+MT,Flood,No,No,Yes,Yes,May,2018,9,Montana
+TN,Tornado,No,No,No,Yes,December,2021,9,Tennessee
+WV,Chemical,No,No,No,Yes,January,2014,9,West Virginia
+MS,Severe Storm,No,No,Yes,Yes,April,2019,9,Mississippi
+IA,Severe Storm,No,No,Yes,Yes,July,2017,9,Iowa
+GA,Severe Storm,No,No,Yes,Yes,March,2021,9,Georgia
+NC,Severe Ice Storm,No,No,Yes,Yes,March,2014,9,North Carolina
+CT,Severe Storm,No,No,Yes,Yes,February,2013,9,Connecticut
+WA,Severe Storm,No,No,Yes,Yes,November,2022,9,Washington
+NJ,Hurricane,No,No,Yes,Yes,September,2021,9,New Jersey
+CT,Severe Storm,No,No,No,Yes,February,2013,9,Connecticut
+FL,Hurricane,No,No,Yes,Yes,September,2020,9,Florida
+NY,Severe Storm,No,No,Yes,Yes,March,2010,9,New York
+WI,Severe Storm,No,No,Yes,Yes,July,2016,9,Wisconsin
+NY,Hurricane,No,No,Yes,Yes,August,2021,9,New York
+AL,Severe Storm,Yes,No,Yes,Yes,April,2014,9,Alabama
+MS,Severe Storm,Yes,No,Yes,Yes,April,2014,9,Mississippi
+NY,Snowstorm,No,No,Yes,Yes,November,2014,9,New York
+IN,Flood,No,No,Yes,Yes,February,2018,9,Indiana
+WI,Flood,Yes,No,Yes,Yes,August,2018,9,Wisconsin
+ND,Severe Storm,No,No,Yes,Yes,June,2021,9,North Dakota
+FL,Hurricane,No,No,Yes,Yes,October,2016,9,Florida
+CT,Biological,No,No,No,Yes,January,2020,9,Connecticut
+WI,Severe Storm,No,No,Yes,Yes,September,2010,9,Wisconsin
+FL,Hurricane,Yes,No,Yes,Yes,October,2016,9,Florida
+CA,Fire,No,No,Yes,Yes,October,2019,9,California
+ND,Severe Storm,No,No,Yes,Yes,April,2011,9,North Dakota
+WV,Severe Storm,No,No,Yes,Yes,July,2015,9,West Virginia
+MS,Severe Storm,No,No,Yes,Yes,April,2017,9,Mississippi
+WA,Fire,No,No,No,Yes,September,2012,9,Washington
+KY,Flood,Yes,No,Yes,Yes,April,2015,9,Kentucky
+CT,Severe Storm,No,No,No,Yes,October,2011,8,Connecticut
+SD,Severe Storm,No,No,Yes,Yes,June,2013,8,South Dakota
+TX,Flood,No,No,Yes,Yes,March,2016,8,Texas
+NC,Hurricane,No,No,Yes,Yes,August,2021,8,North Carolina
+AL,Hurricane,No,No,Yes,Yes,October,2017,8,Alabama
+NH,Severe Storm,No,No,Yes,Yes,February,2013,8,New Hampshire
+CA,Fire,Yes,No,Yes,Yes,October,2017,8,California
+AR,Severe Storm,No,No,Yes,Yes,April,2014,8,Arkansas
+NY,Flood,No,No,Yes,Yes,May,2017,8,New York
+NM,Fire,No,No,Yes,Yes,April,2022,8,New Mexico
+KS,Severe Storm,No,No,Yes,Yes,September,2018,8,Kansas
+MT,Fire,No,No,Yes,Yes,September,2017,8,Montana
+MP,Typhoon,No,No,No,Yes,October,2019,8,Northern Mariana Islands
+SD,Severe Storm,No,No,Yes,Yes,April,2013,8,South Dakota
+IA,Flood,No,No,Yes,Yes,August,2016,8,Iowa
+CA,Fire,No,No,No,Yes,August,2014,8,California
+VT,Severe Storm,No,No,Yes,Yes,December,2022,8,Vermont
+VA,Severe Storm,No,No,Yes,Yes,September,2011,8,Virginia
+AL,Hurricane,No,No,Yes,Yes,August,2012,8,Alabama
+SD,Severe Storm,No,No,Yes,Yes,June,2019,8,South Dakota
+AR,Severe Ice Storm,No,No,Yes,Yes,December,2012,8,Arkansas
+IA,Severe Storm,No,No,Yes,Yes,July,2011,8,Iowa
+MS,Severe Storm,Yes,No,Yes,Yes,December,2015,8,Mississippi
+MT,Flood,No,No,Yes,Yes,March,2019,8,Montana
+OH,Tornado,Yes,No,Yes,No,May,2019,8,Ohio
+GA,Tornado,Yes,No,Yes,Yes,January,2017,8,Georgia
+LA,Coastal Storm,No,No,Yes,Yes,September,2011,8,Louisiana
+MS,Hurricane,Yes,No,Yes,Yes,August,2021,8,Mississippi
+NM,Severe Storm,No,No,Yes,Yes,July,2014,8,New Mexico
+TX,Hurricane,Yes,No,Yes,Yes,June,2010,8,Texas
+CT,Hurricane,Yes,No,No,Yes,August,2011,8,Connecticut
+CT,Snowstorm,No,No,Yes,Yes,January,2011,8,Connecticut
+AR,Severe Storm,Yes,No,Yes,Yes,May,2015,8,Arkansas
+CT,Hurricane,No,No,No,Yes,October,2012,8,Connecticut
+WV,Severe Storm,No,No,Yes,Yes,July,2017,8,West Virginia
+CT,Hurricane,Yes,No,Yes,Yes,August,2011,8,Connecticut
+AL,Severe Storm,Yes,No,Yes,Yes,January,2023,8,Alabama
+WI,Severe Storm,No,No,Yes,Yes,June,2013,8,Wisconsin
+OK,Tornado,Yes,No,Yes,Yes,May,2013,8,Oklahoma
+MA,Severe Storm,No,No,No,Yes,October,2011,8,Massachusetts
+SC,Hurricane,Yes,No,Yes,Yes,September,2018,8,South Carolina
+MS,Severe Storm,Yes,No,Yes,Yes,April,2020,8,Mississippi
+WA,Severe Storm,No,No,Yes,Yes,December,2018,8,Washington
+NV,Severe Storm,No,No,Yes,Yes,January,2017,8,Nevada
+KY,Severe Storm,Yes,No,Yes,Yes,July,2015,8,Kentucky
+VT,Severe Storm,No,No,Yes,Yes,October,2019,8,Vermont
+OR,Fire,Yes,No,Yes,Yes,September,2020,8,Oregon
+NM,Severe Storm,No,No,Yes,Yes,September,2014,8,New Mexico
+OK,Flood,No,No,Yes,Yes,June,2016,8,Oklahoma
+VT,Flood,No,No,Yes,Yes,June,2013,7,Vermont
+OK,Severe Storm,No,No,Yes,Yes,May,2010,7,Oklahoma
+NJ,Snowstorm,No,No,Yes,Yes,February,2010,7,New Jersey
+KY,Flood,No,No,Yes,Yes,July,2022,7,Kentucky
+MT,Fire,No,No,Yes,Yes,September,2020,7,Montana
+TN,Severe Storm,No,No,Yes,Yes,April,2020,7,Tennessee
+NY,Hurricane,No,No,Yes,Yes,August,2020,7,New York
+VT,Severe Storm,No,No,Yes,Yes,June,2017,7,Vermont
+VT,Severe Storm,Yes,No,Yes,Yes,April,2011,7,Vermont
+FL,Biological,No,No,Yes,Yes,January,2020,7,Florida
+LA,Flood,No,No,No,Yes,December,2015,7,Louisiana
+PA,Hurricane,Yes,No,Yes,Yes,August,2021,7,Pennsylvania
+KY,Severe Storm,Yes,No,Yes,No,May,2010,7,Kentucky
+MO,Severe Storm,No,No,Yes,Yes,December,2021,7,Missouri
+GA,Hurricane,Yes,No,Yes,Yes,September,2017,7,Georgia
+TN,Severe Storm,No,No,Yes,Yes,June,2011,7,Tennessee
+OK,Fire,No,No,Yes,Yes,April,2018,7,Oklahoma
+ND,Severe Storm,No,No,Yes,Yes,October,2013,7,North Dakota
+MS,Severe Storm,Yes,No,Yes,Yes,February,2019,7,Mississippi
+KY,Severe Storm,Yes,No,Yes,No,February,2012,7,Kentucky
+AL,Hurricane,Yes,No,Yes,Yes,October,2020,7,Alabama
+OK,Severe Storm,No,No,Yes,Yes,May,2011,7,Oklahoma
+WA,Severe Storm,No,No,Yes,Yes,January,2011,7,Washington
+MA,Severe Storm,Yes,No,Yes,Yes,March,2010,7,Massachusetts
+OR,Severe Storm,No,No,Yes,Yes,February,2021,7,Oregon
+CT,Severe Storm,No,No,Yes,Yes,October,2011,7,Connecticut
+IL,Flood,Yes,No,Yes,No,April,2013,7,Illinois
+GA,Severe Storm,Yes,No,Yes,Yes,January,2023,7,Georgia
+TX,Flood,Yes,No,Yes,No,September,2019,7,Texas
+NV,Severe Storm,No,No,Yes,Yes,February,2017,7,Nevada
+OK,Fire,No,No,No,Yes,August,2012,7,Oklahoma
+MA,Hurricane,No,No,Yes,Yes,August,2011,7,Massachusetts
+OK,Severe Storm,Yes,No,Yes,Yes,May,2011,7,Oklahoma
+OK,Severe Storm,Yes,No,Yes,No,May,2022,7,Oklahoma
+MD,Flood,No,No,Yes,Yes,September,2011,7,Maryland
+LA,Flood,No,No,Yes,Yes,May,2015,7,Louisiana
+OK,Severe Storm,No,No,Yes,Yes,June,2010,7,Oklahoma
+TN,Severe Storm,No,No,Yes,Yes,February,2022,7,Tennessee
+WV,Severe Storm,No,No,Yes,Yes,May,2018,7,West Virginia
+NY,Flood,No,No,Yes,Yes,August,2018,7,New York
+PA,Severe Ice Storm,No,No,No,Yes,February,2014,7,Pennsylvania
+MT,Flood,No,No,Yes,Yes,April,2018,7,Montana
+CO,Flood,No,No,Yes,Yes,September,2013,7,Colorado
+WA,Fire,No,No,Yes,Yes,August,2018,7,Washington
+MA,Snowstorm,No,No,Yes,Yes,January,2011,7,Massachusetts
+ID,Severe Storm,No,No,Yes,Yes,June,2010,7,Idaho
+ND,Snowstorm,No,No,Yes,Yes,November,2022,7,North Dakota
+VT,Flood,No,No,Yes,Yes,April,2014,7,Vermont
+VT,Severe Ice Storm,No,No,Yes,Yes,December,2013,7,Vermont
+NE,Severe Storm,No,No,Yes,Yes,September,2010,7,Nebraska
+AL,Severe Storm,Yes,No,Yes,Yes,March,2021,7,Alabama
+KY,Tornado,No,No,Yes,Yes,December,2021,7,Kentucky
+CA,Fire,No,No,Yes,Yes,July,2018,7,California
+MS,Hurricane,No,No,No,Yes,October,2017,7,Mississippi
+NM,Flood,No,No,Yes,Yes,July,2010,7,New Mexico
+IA,Severe Storm,No,No,Yes,Yes,April,2011,6,Iowa
+NM,Flood,No,No,Yes,Yes,August,2011,6,New Mexico
+VI,Hurricane,No,No,No,Yes,September,2017,6,Virgin Islands of the U.S.
+VA,Hurricane,Yes,No,Yes,Yes,October,2016,6,Virginia
+AK,Severe Storm,No,No,Yes,Yes,November,2011,6,Alaska
+WV,Severe Storm,Yes,No,Yes,Yes,February,2012,6,West Virginia
+RI,Biological,No,No,No,Yes,January,2020,6,Rhode Island
+AR,Severe Storm,No,No,Yes,Yes,August,2013,6,Arkansas
+MA,Hurricane,No,No,Yes,Yes,October,2012,6,Massachusetts
+NH,Severe Storm,No,No,Yes,Yes,February,2010,6,New Hampshire
+WV,Severe Storm,No,No,Yes,Yes,April,2015,6,West Virginia
+MS,Severe Storm,Yes,No,Yes,Yes,April,2010,6,Mississippi
+FL,Hurricane,Yes,No,Yes,Yes,November,2022,6,Florida
+MA,Severe Storm,No,No,Yes,Yes,March,2018,6,Massachusetts
+ID,Flood,No,No,Yes,Yes,April,2019,6,Idaho
+OR,Severe Storm,No,No,Yes,Yes,January,2011,6,Oregon
+NJ,Severe Storm,No,No,Yes,Yes,March,2018,6,New Jersey
+ME,Biological,Yes,No,No,No,January,2020,6,Maine
+RI,Biological,Yes,No,Yes,Yes,January,2020,6,Rhode Island
+SC,Severe Storm,Yes,No,Yes,Yes,April,2020,6,South Carolina
+MS,Hurricane,Yes,No,Yes,Yes,October,2020,6,Mississippi
+NH,Hurricane,No,No,Yes,Yes,October,2012,6,New Hampshire
+VT,Flood,No,No,Yes,Yes,April,2019,6,Vermont
+CA,Fire,No,No,Yes,Yes,August,2021,6,California
+SD,Severe Storm,No,No,Yes,Yes,May,2013,6,South Dakota
+TN,Fire,No,No,Yes,Yes,November,2016,6,Tennessee
+MO,Flood,Yes,No,Yes,Yes,June,2011,6,Missouri
+MD,Severe Storm,No,No,Yes,Yes,June,2012,6,Maryland
+MT,Severe Storm,No,No,Yes,Yes,August,2014,6,Montana
+NH,Severe Storm,No,No,Yes,Yes,October,2017,6,New Hampshire
+ME,Severe Storm,No,No,Yes,Yes,December,2022,6,Maine
+OR,Flood,No,No,Yes,Yes,April,2019,6,Oregon
+RI,Snowstorm,No,No,Yes,Yes,January,2022,6,Rhode Island
+SD,Severe Storm,No,No,Yes,Yes,June,2022,6,South Dakota
+ID,Flood,No,No,Yes,Yes,March,2011,6,Idaho
+AR,Severe Storm,Yes,No,Yes,No,December,2015,6,Arkansas
+CA,Fire,Yes,No,Yes,Yes,July,2021,6,California
+TX,Fire,No,No,No,Yes,May,2011,6,Texas
+WA,Flood,Yes,No,Yes,Yes,November,2021,6,Washington
+RI,Hurricane,No,No,No,Yes,August,2021,6,Rhode Island
+KY,Flood,Yes,No,Yes,No,February,2021,6,Kentucky
+GA,Severe Storm,No,No,Yes,Yes,January,2017,6,Georgia
+NE,Tornado,No,No,Yes,Yes,May,2014,6,Nebraska
+MN,Flood,Yes,No,Yes,Yes,September,2016,6,Minnesota
+ME,Severe Storm,No,No,Yes,Yes,February,2013,6,Maine
+IL,Severe Storm,No,No,Yes,Yes,April,2011,6,Illinois
+CA,Fire,No,No,Yes,Yes,December,2017,6,California
+CA,Severe Storm,No,No,Yes,Yes,January,2010,6,California
+WI,Flood,No,No,Yes,Yes,June,2018,6,Wisconsin
+ND,Severe Storm,No,No,Yes,Yes,June,2020,6,North Dakota
+WA,Severe Storm,No,No,Yes,Yes,August,2015,6,Washington
+WV,Flood,No,No,Yes,Yes,June,2016,6,West Virginia
+OK,Severe Storm,Yes,No,Yes,Yes,May,2010,6,Oklahoma
+MA,Severe Storm,No,No,Yes,Yes,October,2011,6,Massachusetts
+CA,Fire,No,No,No,Yes,August,2016,6,California
+ND,Flood,No,No,No,Yes,April,2013,6,North Dakota
+WA,Flood,No,No,Yes,Yes,November,2021,6,Washington
+CO,Fire,No,No,No,Yes,June,2013,5,Colorado
+CT,Hurricane,Yes,No,Yes,Yes,October,2012,5,Connecticut
+VA,Earthquake,Yes,No,Yes,No,August,2011,5,Virginia
+WA,Fire,No,No,Yes,Yes,July,2021,5,Washington
+RI,Severe Storm,Yes,No,Yes,Yes,March,2010,5,Rhode Island
+NM,Fire,Yes,No,Yes,Yes,April,2022,5,New Mexico
+ME,Severe Storm,No,No,Yes,Yes,February,2010,5,Maine
+MP,Biological,Yes,No,Yes,Yes,January,2020,5,Northern Mariana Islands
+PA,Severe Storm,No,No,Yes,Yes,April,2011,5,Pennsylvania
+AK,Mud/Landslide,No,No,Yes,Yes,November,2020,5,Alaska
+VI,Hurricane,Yes,No,Yes,Yes,September,2017,5,Virgin Islands of the U.S.
+AS,Hurricane,Yes,No,Yes,Yes,February,2018,5,American Samoa
+AR,Tornado,Yes,No,Yes,No,December,2021,5,Arkansas
+RI,Severe Storm,No,No,No,Yes,March,2010,5,Rhode Island
+OR,Severe Storm,No,No,Yes,Yes,February,2019,5,Oregon
+TX,Hurricane,No,No,Yes,Yes,August,2020,5,Texas
+AS,Biological,No,No,No,Yes,January,2020,5,American Samoa
+RI,Hurricane,No,No,Yes,Yes,August,2011,5,Rhode Island
+FL,Severe Storm,Yes,No,Yes,Yes,April,2014,5,Florida
+TX,Severe Storm,No,No,Yes,Yes,October,2015,5,Texas
+CA,Fire,No,No,Yes,Yes,July,2015,5,California
+MO,Flood,No,No,Yes,Yes,June,2011,5,Missouri
+RI,Severe Storm,No,No,Yes,Yes,January,2015,5,Rhode Island
+AS,Hurricane,No,No,No,Yes,February,2018,5,American Samoa
+RI,Hurricane,No,No,No,Yes,October,2012,5,Rhode Island
+MS,Hurricane,No,No,Yes,Yes,October,2017,5,Mississippi
+CA,Fire,No,No,Yes,Yes,September,2015,5,California
+AS,Biological,Yes,No,Yes,Yes,January,2020,5,American Samoa
+NJ,Severe Storm,No,No,Yes,Yes,September,2011,5,New Jersey
+WV,Flood,No,No,Yes,Yes,June,2019,5,West Virginia
+OK,Fire,No,No,Yes,Yes,March,2017,5,Oklahoma
+NC,Hurricane,No,No,Yes,Yes,October,2016,5,North Carolina
+MI,Dam/Levee Break,Yes,No,Yes,Yes,May,2020,5,Michigan
+OK,Fire,No,No,No,Yes,March,2011,5,Oklahoma
+PA,Flood,No,No,Yes,Yes,September,2011,5,Pennsylvania
+SD,Flood,Yes,No,Yes,Yes,March,2011,5,South Dakota
+NH,Hurricane,No,No,Yes,Yes,August,2011,5,New Hampshire
+CA,Fire,No,No,No,Yes,December,2017,5,California
+AZ,Severe Storm,No,No,No,Yes,January,2010,5,Arizona
+RI,Hurricane,No,No,No,Yes,August,2011,5,Rhode Island
+WI,Flood,No,No,Yes,Yes,August,2018,5,Wisconsin
+AR,Severe Storm,Yes,No,Yes,Yes,December,2015,5,Arkansas
+MN,Severe Storm,No,No,Yes,Yes,April,2013,5,Minnesota
+MT,Other,No,No,Yes,Yes,June,2021,5,Montana
+WV,Severe Storm,No,No,Yes,Yes,February,2012,5,West Virginia
+AK,Severe Storm,No,No,Yes,Yes,September,2012,5,Alaska
+VT,Severe Storm,No,No,Yes,Yes,May,2011,5,Vermont
+WV,Severe Ice Storm,No,No,Yes,Yes,February,2021,5,West Virginia
+VT,Severe Storm,No,No,Yes,Yes,May,2018,5,Vermont
+ID,Flood,No,No,Yes,Yes,May,2017,5,Idaho
+HI,Biological,Yes,No,Yes,Yes,January,2020,5,Hawaii
+ID,Severe Storm,No,No,Yes,Yes,November,2015,5,Idaho
+AZ,Fire,No,No,Yes,Yes,June,2020,5,Arizona
+IN,Severe Storm,Yes,No,Yes,Yes,February,2012,5,Indiana
+TX,Severe Storm,Yes,No,Yes,No,October,2015,5,Texas
+AS,Severe Storm,No,No,Yes,Yes,July,2014,5,American Samoa
+ID,Biological,Yes,No,No,No,January,2020,5,Idaho
+OK,Severe Storm,No,No,Yes,Yes,April,2012,5,Oklahoma
+MA,Snowstorm,No,No,Yes,Yes,January,2022,5,Massachusetts
+MA,Snowstorm,No,No,Yes,Yes,March,2018,5,Massachusetts
+IA,Flood,Yes,No,Yes,Yes,May,2011,5,Iowa
+FL,Hurricane,Yes,No,Yes,Yes,September,2020,5,Florida
+PR,Flood,Yes,No,Yes,No,February,2022,5,Puerto Rico
+IA,Severe Storm,No,No,Yes,Yes,April,2013,5,Iowa
+PA,Hurricane,No,No,Yes,Yes,August,2021,5,Pennsylvania
+KY,Fire,No,No,Yes,Yes,November,2016,5,Kentucky
+SD,Severe Storm,No,No,Yes,Yes,September,2010,5,South Dakota
+NJ,Snowstorm,No,No,Yes,Yes,January,2021,5,New Jersey
+RI,Severe Storm,No,No,Yes,Yes,February,2013,5,Rhode Island
+NM,Fire,No,No,No,Yes,April,2011,4,New Mexico
+MT,Fire,No,No,Yes,Yes,August,2017,4,Montana
+CT,Severe Storm,No,No,Yes,Yes,January,2015,4,Connecticut
+NH,Severe Storm,No,No,Yes,Yes,December,2022,4,New Hampshire
+AK,Flood,Yes,No,Yes,Yes,May,2013,4,Alaska
+PA,Flood,No,No,Yes,Yes,October,2016,4,Pennsylvania
+PR,Hurricane,Yes,No,Yes,No,July,2020,4,Puerto Rico
+WV,Flood,Yes,No,Yes,Yes,June,2010,4,West Virginia
+IA,Severe Storm,No,No,Yes,Yes,July,2018,4,Iowa
+TN,Flood,No,No,No,Yes,April,2011,4,Tennessee
+WI,Severe Storm,No,No,Yes,Yes,June,2012,4,Wisconsin
+MP,Biological,No,No,No,Yes,January,2020,4,Northern Mariana Islands
+MS,Severe Storm,Yes,No,Yes,No,April,2011,4,Mississippi
+FL,Severe Storm,No,No,Yes,Yes,April,2014,4,Florida
+NJ,Severe Storm,No,No,Yes,Yes,June,2015,4,New Jersey
+AK,Severe Storm,No,No,Yes,Yes,November,2013,4,Alaska
+KS,Flood,No,No,No,Yes,June,2011,4,Kansas
+CA,Fire,No,No,Yes,Yes,August,2017,4,California
+LA,Flood,Yes,No,Yes,Yes,May,2021,4,Louisiana
+HI,Biological,No,No,No,Yes,January,2020,4,Hawaii
+HI,Hurricane,No,No,No,Yes,August,2018,4,Hawaii
+OR,Severe Storm,No,No,Yes,Yes,February,2014,4,Oregon
+NC,Fire,No,No,Yes,Yes,November,2016,4,North Carolina
+VA,Earthquake,Yes,No,Yes,Yes,August,2011,4,Virginia
+AK,Severe Storm,Yes,No,Yes,Yes,September,2022,4,Alaska
+OR,Severe Storm,No,No,Yes,Yes,January,2017,4,Oregon
+CA,Fire,No,No,No,Yes,August,2013,4,California
+IL,Severe Storm,No,No,Yes,Yes,July,2010,4,Illinois
+OK,Severe Storm,No,No,Yes,Yes,December,2013,4,Oklahoma
+HI,Hurricane,No,No,No,Yes,September,2018,4,Hawaii
+ME,Snowstorm,No,No,Yes,Yes,January,2015,4,Maine
+FL,Severe Storm,No,No,Yes,Yes,July,2013,4,Florida
+KY,Severe Storm,No,No,Yes,Yes,June,2011,4,Kentucky
+NY,Hurricane,No,No,Yes,Yes,September,2021,4,New York
+UT,Fire,No,No,No,Yes,June,2012,4,Utah
+SD,Severe Storm,No,No,Yes,Yes,June,2010,4,South Dakota
+MS,Severe Storm,Yes,No,Yes,Yes,March,2023,4,Mississippi
+WV,Severe Storm,Yes,No,Yes,Yes,July,2017,4,West Virginia
+KY,Severe Storm,No,No,Yes,Yes,August,2014,4,Kentucky
+CA,Fire,No,No,No,Yes,July,2016,4,California
+WA,Fire,No,No,Yes,Yes,August,2021,4,Washington
+ID,Fire,No,No,Yes,Yes,August,2015,4,Idaho
+HI,Hurricane,No,No,No,Yes,July,2020,4,Hawaii
+CA,Fire,No,No,Yes,Yes,October,2020,4,California
+UT,Severe Storm,No,No,Yes,Yes,September,2020,4,Utah
+MI,Severe Storm,Yes,No,Yes,No,June,2017,4,Michigan
+KY,Severe Storm,Yes,No,Yes,Yes,July,2010,4,Kentucky
+CA,Fire,No,No,No,Yes,September,2014,4,California
+MS,Severe Storm,Yes,No,Yes,Yes,February,2013,4,Mississippi
+LA,Flood,No,No,Yes,Yes,August,2016,4,Louisiana
+OK,Fire,No,No,No,Yes,April,2011,4,Oklahoma
+CA,Fire,No,No,Yes,Yes,September,2017,4,California
+OR,Fire,No,No,No,Yes,July,2013,4,Oregon
+MO,Severe Storm,Yes,No,Yes,No,April,2019,4,Missouri
+MT,Flood,Yes,No,Yes,Yes,June,2022,4,Montana
+CA,Fire,No,No,Yes,Yes,September,2022,4,California
+MP,Typhoon,Yes,No,Yes,Yes,October,2018,4,Northern Mariana Islands
+MS,Severe Storm,Yes,No,Yes,Yes,May,2010,4,Mississippi
+KS,Flood,No,No,Yes,Yes,June,2011,4,Kansas
+FL,Severe Storm,Yes,No,Yes,No,June,2012,4,Florida
+CA,Fire,No,No,Yes,Yes,November,2018,4,California
+IL,Severe Storm,Yes,No,Yes,Yes,July,2010,4,Illinois
+OR,Fire,No,No,Yes,Yes,July,2018,4,Oregon
+MA,Other,No,No,No,Yes,May,2010,4,Massachusetts
+CO,Fire,No,No,Yes,Yes,August,2020,4,Colorado
+WA,Fire,No,No,Yes,Yes,July,2018,4,Washington
+AL,Hurricane,No,No,Yes,Yes,October,2018,4,Alabama
+CA,Fire,No,No,No,Yes,September,2011,4,California
+ID,Severe Storm,No,No,Yes,Yes,January,2021,4,Idaho
+MT,Fire,No,No,No,Yes,June,2012,4,Montana
+MS,Severe Storm,No,No,Yes,Yes,May,2010,4,Mississippi
+CT,Hurricane,Yes,No,Yes,No,September,2021,4,Connecticut
+TX,Fire,Yes,No,Yes,No,August,2011,4,Texas
+OK,Severe Storm,Yes,No,Yes,No,May,2015,4,Oklahoma
+WV,Severe Storm,Yes,No,Yes,Yes,March,2010,4,West Virginia
+NY,Hurricane,No,No,Yes,Yes,August,2011,4,New York
+MP,Typhoon,No,No,No,Yes,October,2018,4,Northern Mariana Islands
+GA,Fire,No,No,No,Yes,June,2011,4,Georgia
+MT,Severe Storm,No,No,Yes,Yes,April,2016,4,Montana
+ME,Hurricane,No,No,Yes,Yes,August,2011,4,Maine
+MA,Terrorist,No,No,No,Yes,April,2013,4,Massachusetts
+TX,Fire,No,No,No,Yes,February,2011,4,Texas
+FL,Hurricane,No,No,Yes,Yes,October,2018,4,Florida
+CA,Fire,No,No,No,Yes,August,2021,4,California
+TN,Flood,Yes,No,Yes,Yes,August,2021,4,Tennessee
+TX,Severe Storm,No,No,Yes,Yes,October,2013,4,Texas
+OR,Fire,No,No,Yes,Yes,August,2015,4,Oregon
+WA,Mud/Landslide,Yes,No,Yes,Yes,March,2014,4,Washington
+IN,Flood,Yes,No,Yes,No,February,2018,3,Indiana
+WA,Fire,No,No,No,Yes,August,2016,3,Washington
+AZ,Flood,No,No,Yes,Yes,July,2021,3,Arizona
+MI,Flood,Yes,No,Yes,Yes,August,2014,3,Michigan
+KY,Severe Storm,Yes,No,Yes,Yes,June,2011,3,Kentucky
+NE,Flood,No,No,Yes,Yes,May,2011,3,Nebraska
+VI,Biological,Yes,No,Yes,Yes,January,2020,3,Virgin Islands of the U.S.
+SC,Hurricane,Yes,No,Yes,Yes,September,2022,3,South Carolina
+TX,Fire,No,No,Yes,Yes,July,2022,3,Texas
+IL,Severe Storm,Yes,No,Yes,No,July,2010,3,Illinois
+TX,Flood,No,No,No,Yes,May,2016,3,Texas
+TN,Tornado,Yes,No,Yes,Yes,March,2021,3,Tennessee
+NV,Fire,No,No,Yes,Yes,July,2017,3,Nevada
+MT,Flood,No,No,Yes,Yes,June,2022,3,Montana
+NE,Flood,Yes,No,Yes,No,May,2011,3,Nebraska
+TX,Fire,No,No,Yes,Yes,March,2022,3,Texas
+CA,Fire,No,No,Yes,Yes,August,2018,3,California
+TN,Severe Storm,No,No,Yes,Yes,April,2010,3,Tennessee
+OR,Fire,No,No,No,Yes,July,2014,3,Oregon
+WA,Fire,No,No,Yes,Yes,July,2014,3,Washington
+PR,Hurricane,Yes,No,Yes,No,September,2011,3,Puerto Rico
+NJ,Severe Storm,No,No,Yes,Yes,August,2011,3,New Jersey
+NH,Severe Storm,No,No,Yes,Yes,January,2015,3,New Hampshire
+TX,Fire,No,No,Yes,Yes,April,2018,3,Texas
+MN,Flood,No,No,Yes,Yes,September,2016,3,Minnesota
+WA,Severe Storm,No,No,Yes,Yes,July,2012,3,Washington
+VT,Flood,No,No,Yes,Yes,May,2013,3,Vermont
+HI,Tsunami,No,No,Yes,Yes,March,2011,3,Hawaii
+MT,Fire,No,No,Yes,Yes,August,2021,3,Montana
+CA,Fire,No,No,No,Yes,June,2016,3,California
+VI,Hurricane,No,No,No,Yes,August,2019,3,Virgin Islands of the U.S.
+WY,Fire,No,No,No,Yes,June,2012,3,Wyoming
+GA,Fire,No,No,Yes,Yes,May,2017,3,Georgia
+VT,Severe Storm,No,No,Yes,Yes,May,2012,3,Vermont
+AK,Earthquake,No,No,No,Yes,November,2018,3,Alaska
+TX,Flood,Yes,No,Yes,No,June,2018,3,Texas
+MI,Severe Storm,Yes,No,Yes,No,June,2021,3,Michigan
+LA,Severe Storm,No,No,Yes,Yes,April,2019,3,Louisiana
+CO,Fire,No,No,Yes,Yes,September,2020,3,Colorado
+WY,Flood,No,No,Yes,Yes,June,2017,3,Wyoming
+AR,Flood,No,No,Yes,Yes,June,2019,3,Arkansas
+OK,Fire,No,No,No,Yes,July,2011,3,Oklahoma
+ME,Coastal Storm,No,No,Yes,Yes,October,2021,3,Maine
+WV,Flood,No,No,Yes,Yes,February,2021,3,West Virginia
+AK,Earthquake,Yes,No,Yes,Yes,November,2018,3,Alaska
+NM,Flood,No,No,Yes,Yes,June,2012,3,New Mexico
+OH,Tornado,Yes,No,Yes,Yes,May,2019,3,Ohio
+ME,Severe Storm,No,No,Yes,Yes,December,2010,3,Maine
+MT,Fire,No,No,Yes,Yes,June,2012,3,Montana
+TN,Tornado,No,No,Yes,Yes,March,2020,3,Tennessee
+AL,Hurricane,Yes,No,Yes,Yes,September,2020,3,Alabama
+AR,Severe Storm,Yes,No,Yes,Yes,April,2014,3,Arkansas
+MP,Typhoon,No,No,No,Yes,September,2018,3,Northern Mariana Islands
+ID,Severe Storm,No,No,Yes,Yes,December,2015,3,Idaho
+MS,Severe Storm,Yes,No,Yes,No,April,2014,3,Mississippi
+OK,Severe Storm,Yes,No,Yes,No,May,2010,3,Oklahoma
+MS,Severe Storm,No,No,Yes,Yes,December,2015,3,Mississippi
+NE,Fire,No,No,Yes,Yes,April,2022,3,Nebraska
+AK,Flood,No,No,Yes,Yes,May,2022,3,Alaska
+KY,Severe Storm,Yes,No,Yes,No,April,2011,3,Kentucky
+FL,Fire,No,No,Yes,Yes,May,2020,3,Florida
+DE,Biological,Yes,No,Yes,Yes,January,2020,3,Delaware
+CT,Severe Storm,Yes,No,Yes,Yes,March,2010,3,Connecticut
+NJ,Severe Storm,No,No,Yes,Yes,June,2012,3,New Jersey
+TX,Flood,Yes,No,Yes,No,June,2019,3,Texas
+VI,Biological,No,No,No,Yes,January,2020,3,Virgin Islands of the U.S.
+AK,Flood,No,No,Yes,Yes,May,2011,3,Alaska
+VI,Hurricane,No,No,Yes,Yes,August,2010,3,Virgin Islands of the U.S.
+AR,Severe Storm,Yes,No,Yes,No,April,2011,3,Arkansas
+NC,Hurricane,Yes,No,Yes,Yes,August,2021,3,North Carolina
+VI,Severe Storm,No,No,Yes,Yes,October,2010,3,Virgin Islands of the U.S.
+MI,Flood,No,No,Yes,Yes,June,2018,3,Michigan
+TX,Severe Storm,Yes,No,Yes,No,May,2015,3,Texas
+HI,Hurricane,No,No,Yes,Yes,August,2018,3,Hawaii
+WY,Flood,No,No,Yes,Yes,June,2010,3,Wyoming
+MT,Fire,No,No,Yes,Yes,July,2021,3,Montana
+CT,Hurricane,No,No,Yes,Yes,October,2012,3,Connecticut
+NH,Snowstorm,No,No,Yes,Yes,March,2018,3,New Hampshire
+CO,Fire,No,No,No,Yes,June,2012,3,Colorado
+CA,Fire,No,No,No,Yes,May,2013,3,California
+TN,Tornado,Yes,No,Yes,Yes,March,2020,3,Tennessee
+WA,Severe Storm,No,No,Yes,Yes,December,2020,3,Washington
+OR,Tsunami,No,No,Yes,Yes,March,2011,3,Oregon
+CA,Fire,Yes,No,Yes,Yes,November,2018,3,California
+DE,Snowstorm,No,No,Yes,Yes,February,2010,3,Delaware
+AL,Severe Storm,Yes,No,Yes,Yes,April,2010,3,Alabama
+VI,Hurricane,No,No,No,Yes,July,2020,3,Virgin Islands of the U.S.
+CA,Fire,No,No,No,Yes,July,2010,3,California
+MT,Severe Storm,No,No,Yes,Yes,June,2010,3,Montana
+WI,Flood,No,No,Yes,Yes,January,2020,3,Wisconsin
+AL,Severe Storm,Yes,No,Yes,No,January,2012,3,Alabama
+WY,Fire,No,No,Yes,Yes,September,2020,3,Wyoming
+CA,Tsunami,No,No,Yes,Yes,March,2011,3,California
+MO,Flood,Yes,No,Yes,Yes,July,2022,3,Missouri
+MD,Severe Storm,No,No,Yes,Yes,February,2014,3,Maryland
+VA,Hurricane,No,No,Yes,Yes,October,2016,3,Virginia
+TX,Fire,No,No,No,Yes,March,2011,3,Texas
+AZ,Fire,No,No,No,Yes,June,2011,3,Arizona
+WV,Flood,Yes,No,Yes,Yes,February,2021,3,West Virginia
+MO,Severe Storm,Yes,No,Yes,No,April,2011,3,Missouri
+CA,Dam/Levee Break,No,No,No,Yes,February,2017,3,California
+NY,Tornado,No,No,Yes,Yes,September,2010,3,New York
+AR,Flood,No,No,Yes,Yes,May,2019,3,Arkansas
+CO,Fire,No,No,Yes,Yes,June,2018,3,Colorado
+WV,Severe Storm,Yes,No,Yes,Yes,March,2012,3,West Virginia
+CA,Fire,No,No,No,Yes,November,2018,3,California
+OR,Fire,No,No,Yes,Yes,August,2017,3,Oregon
+NM,Fire,No,No,No,Yes,June,2012,3,New Mexico
+MS,Severe Storm,Yes,No,Yes,No,February,2013,3,Mississippi
+NY,Snowstorm,No,No,Yes,Yes,December,2022,3,New York
+CA,Fire,No,No,No,Yes,August,2012,3,California
+NH,Severe Storm,No,No,Yes,Yes,June,2013,3,New Hampshire
+DE,Hurricane,No,No,No,Yes,August,2011,3,Delaware
+CO,Fire,No,No,Yes,Yes,October,2016,3,Colorado
+SD,Severe Storm,No,No,Yes,Yes,April,2010,3,South Dakota
+DE,Hurricane,No,No,Yes,Yes,October,2012,3,Delaware
+VT,Severe Storm,No,No,Yes,Yes,December,2010,3,Vermont
+SC,Severe Storm,Yes,No,Yes,No,April,2020,3,South Carolina
+MP,Typhoon,Yes,No,Yes,Yes,September,2018,3,Northern Mariana Islands
+PA,Flood,Yes,No,Yes,No,September,2011,3,Pennsylvania
+AL,Severe Storm,Yes,No,Yes,Yes,March,2018,3,Alabama
+AK,Severe Storm,No,No,Yes,Yes,December,2021,3,Alaska
+WA,Fire,No,No,Yes,Yes,August,2020,3,Washington
+MD,Hurricane,No,No,Yes,Yes,August,2020,3,Maryland
+UT,Flood,No,No,Yes,Yes,December,2010,3,Utah
+ID,Fire,No,No,Yes,Yes,August,2022,3,Idaho
+MS,Tornado,Yes,No,Yes,Yes,January,2017,3,Mississippi
+DE,Biological,No,No,No,Yes,January,2020,3,Delaware
+FL,Fire,No,No,Yes,Yes,April,2017,3,Florida
+NE,Fire,No,No,No,Yes,August,2012,3,Nebraska
+ID,Fire,No,No,No,Yes,August,2013,3,Idaho
+FL,Fire,No,No,Yes,Yes,March,2022,3,Florida
+MA,Biological,No,No,Yes,No,January,2020,3,Massachusetts
+DE,Hurricane,No,No,No,Yes,October,2012,3,Delaware
+AL,Severe Storm,No,No,Yes,Yes,January,2023,3,Alabama
+KY,Severe Storm,No,No,Yes,Yes,February,2012,2,Kentucky
+HI,Severe Storm,No,No,Yes,Yes,March,2012,2,Hawaii
+CT,Severe Storm,Yes,No,Yes,No,March,2010,2,Connecticut
+WA,Fire,No,No,Yes,Yes,October,2022,2,Washington
+OR,Flood,Yes,No,Yes,Yes,February,2020,2,Oregon
+MP,Typhoon,No,No,Yes,Yes,August,2015,2,Northern Mariana Islands
+AK,Fire,No,No,Yes,Yes,June,2022,2,Alaska
+NY,Snowstorm,Yes,No,Yes,Yes,December,2022,2,New York
+OR,Fire,No,No,Yes,Yes,September,2022,2,Oregon
+NV,Fire,No,No,Yes,Yes,July,2020,2,Nevada
+VT,Severe Storm,Yes,No,Yes,Yes,May,2011,2,Vermont
+AZ,Fire,No,No,No,Yes,June,2013,2,Arizona
+UT,Fire,No,No,Yes,Yes,June,2020,2,Utah
+MA,Hurricane,Yes,No,Yes,Yes,August,2011,2,Massachusetts
+LA,Tornado,Yes,No,Yes,No,February,2017,2,Louisiana
+CA,Fire,Yes,No,Yes,No,December,2017,2,California
+RI,Hurricane,Yes,No,Yes,Yes,October,2012,2,Rhode Island
+CA,Fire,No,No,Yes,Yes,July,2017,2,California
+NM,Flood,No,No,No,Yes,June,2012,2,New Mexico
+NH,Severe Storm,No,No,Yes,Yes,March,2017,2,New Hampshire
+NV,Fire,No,No,Yes,Yes,August,2020,2,Nevada
+AZ,Fire,No,No,Yes,Yes,August,2020,2,Arizona
+WI,Severe Storm,Yes,No,Yes,Yes,July,2010,2,Wisconsin
+WA,Fire,No,No,No,Yes,August,2013,2,Washington
+CO,Fire,No,No,No,Yes,September,2010,2,Colorado
+AL,Severe Storm,Yes,No,Yes,No,October,2021,2,Alabama
+OK,Fire,No,No,Yes,Yes,February,2017,2,Oklahoma
+OH,Hurricane,No,No,Yes,Yes,October,2012,2,Ohio
+CA,Fire,Yes,No,Yes,Yes,December,2017,2,California
+LA,Flood,No,No,Yes,Yes,May,2021,2,Louisiana
+AK,Fire,No,No,Yes,Yes,August,2019,2,Alaska
+NH,Severe Storm,No,No,Yes,Yes,October,2011,2,New Hampshire
+AZ,Fire,No,No,No,Yes,June,2010,2,Arizona
+MT,Fire,No,No,Yes,Yes,July,2017,2,Montana
+UT,Flood,No,No,Yes,Yes,February,2017,2,Utah
+AZ,Fire,No,No,Yes,Yes,June,2017,2,Arizona
+KY,Severe Storm,No,No,Yes,Yes,July,2010,2,Kentucky
+WA,Fire,No,No,No,Yes,August,2014,2,Washington
+NC,Severe Storm,Yes,No,Yes,No,April,2011,2,North Carolina
+VT,Severe Storm,No,No,Yes,Yes,June,2015,2,Vermont
+NV,Fire,No,No,Yes,Yes,October,2016,2,Nevada
+NV,Fire,No,No,Yes,Yes,August,2019,2,Nevada
+AZ,Flood,No,No,Yes,Yes,September,2014,2,Arizona
+NY,Severe Storm,No,No,Yes,Yes,October,2019,2,New York
+KS,Fire,No,No,Yes,Yes,March,2022,2,Kansas
+KS,Fire,No,No,Yes,Yes,March,2016,2,Kansas
+NM,Fire,No,No,No,Yes,June,2016,2,New Mexico
+UT,Fire,No,No,Yes,Yes,June,2021,2,Utah
+OR,Fire,No,No,Yes,Yes,September,2017,2,Oregon
+CO,Fire,Yes,No,Yes,Yes,June,2013,2,Colorado
+SC,Hurricane,No,No,Yes,Yes,October,2016,2,South Carolina
+AZ,Fire,No,No,Yes,Yes,May,2020,2,Arizona
+WV,Flood,No,No,Yes,Yes,June,2013,2,West Virginia
+DE,Hurricane,No,No,Yes,Yes,August,2020,2,Delaware
+NC,Fire,No,No,No,Yes,July,2011,2,North Carolina
+CO,Fire,Yes,No,Yes,Yes,June,2012,2,Colorado
+CO,Fire,No,No,No,Yes,October,2012,2,Colorado
+TN,Severe Storm,Yes,No,Yes,Yes,April,2020,2,Tennessee
+SC,Fire,No,No,Yes,Yes,November,2016,2,South Carolina
+CA,Earthquake,Yes,No,Yes,Yes,August,2014,2,California
+WY,Flood,No,No,Yes,Yes,May,2015,2,Wyoming
+IA,Severe Storm,Yes,No,Yes,No,June,2010,2,Iowa
+NH,Flood,No,No,Yes,Yes,July,2021,2,New Hampshire
+KY,Severe Storm,Yes,No,Yes,No,July,2010,2,Kentucky
+OR,Fire,No,No,No,Yes,August,2013,2,Oregon
+CA,Fire,No,No,Yes,Yes,July,2021,2,California
+KS,Fire,No,No,No,Yes,April,2011,2,Kansas
+VA,Fire,No,No,No,Yes,February,2011,2,Virginia
+VA,Severe Storm,No,No,Yes,Yes,July,2022,2,Virginia
+CA,Fire,No,No,Yes,Yes,June,2018,2,California
+RI,Hurricane,No,No,Yes,Yes,October,2012,2,Rhode Island
+NY,Severe Storm,No,No,Yes,Yes,September,2011,2,New York
+NH,Severe Storm,No,No,Yes,Yes,March,2010,2,New Hampshire
+CT,Hurricane,No,No,Yes,Yes,September,2021,2,Connecticut
+VT,Hurricane,No,No,Yes,Yes,August,2011,2,Vermont
+CA,Fire,No,No,No,Yes,September,2012,2,California
+NM,Fire,No,No,No,Yes,May,2012,2,New Mexico
+UT,Fire,No,No,Yes,Yes,August,2021,2,Utah
+GA,Fire,No,No,No,Yes,March,2011,2,Georgia
+ID,Fire,No,No,Yes,Yes,August,2021,2,Idaho
+MD,Flood,No,No,Yes,Yes,May,2018,2,Maryland
+WA,Fire,No,No,No,Yes,July,2013,2,Washington
+CO,Fire,No,No,Yes,Yes,October,2020,2,Colorado
+AK,Fire,No,No,Yes,Yes,June,2015,2,Alaska
+CT,Tornado,No,No,Yes,Yes,May,2018,2,Connecticut
+IA,Severe Storm,No,No,Yes,Yes,May,2010,2,Iowa
+AL,Severe Storm,Yes,No,Yes,No,January,2023,2,Alabama
+HI,Severe Storm,No,No,Yes,Yes,August,2014,2,Hawaii
+PR,Hurricane,Yes,No,No,No,September,2017,2,Puerto Rico
+NH,Severe Storm,No,No,Yes,Yes,July,2017,2,New Hampshire
+OK,Fire,Yes,No,Yes,No,August,2012,2,Oklahoma
+WA,Fire,No,No,Yes,Yes,September,2022,2,Washington
+CO,Fire,No,No,No,Yes,June,2011,2,Colorado
+MS,Severe Storm,Yes,No,Yes,No,April,2010,2,Mississippi
+NJ,Severe Storm,Yes,No,Yes,No,March,2010,2,New Jersey
+CT,Severe Storm,No,No,Yes,Yes,September,2018,2,Connecticut
+UT,Fire,No,No,Yes,Yes,September,2017,2,Utah
+CA,Fire,No,No,Yes,Yes,November,2019,2,California
+MT,Fire,No,No,Yes,Yes,August,2020,2,Montana
+OK,Fire,No,No,Yes,Yes,November,2019,2,Oklahoma
+DE,Hurricane,No,No,Yes,Yes,August,2011,2,Delaware
+MI,Dam/Levee Break,No,No,No,Yes,May,2020,2,Michigan
+NH,Hurricane,Yes,No,Yes,Yes,August,2011,2,New Hampshire
+MO,Severe Storm,No,No,Yes,No,June,2021,2,Missouri
+TN,Tornado,No,No,Yes,Yes,December,2021,2,Tennessee
+FL,Hurricane,No,No,No,Yes,October,2017,2,Florida
+OR,Flood,No,No,Yes,Yes,February,2020,2,Oregon
+MD,Severe Storm,No,No,Yes,Yes,May,2018,2,Maryland
+HI,Flood,Yes,No,Yes,Yes,April,2018,2,Hawaii
+WA,Fire,No,No,Yes,Yes,July,2020,2,Washington
+AZ,Fire,No,No,Yes,Yes,June,2021,2,Arizona
+NC,Severe Storm,Yes,No,Yes,No,April,2018,2,North Carolina
+WY,Flood,Yes,No,Yes,Yes,May,2015,2,Wyoming
+MT,Severe Storm,Yes,No,Yes,No,April,2011,2,Montana
+ME,Severe Storm,No,No,Yes,Yes,March,2010,2,Maine
+TX,Fire,No,No,Yes,Yes,July,2018,2,Texas
+CA,Earthquake,No,No,No,Yes,July,2019,2,California
+AZ,Fire,No,No,Yes,Yes,April,2022,2,Arizona
+WY,Fire,No,No,No,Yes,July,2012,2,Wyoming
+OR,Fire,No,No,Yes,Yes,July,2021,2,Oregon
+AR,Severe Storm,Yes,No,Yes,No,April,2017,2,Arkansas
+GA,Severe Storm,Yes,No,Yes,No,April,2011,2,Georgia
+CA,Fire,No,No,No,Yes,May,2014,2,California
+NY,Winter Storm,No,No,No,Yes,December,2022,2,New York
+MO,Flood,Yes,No,Yes,No,April,2017,2,Missouri
+MS,Hurricane,No,No,Yes,Yes,October,2020,2,Mississippi
+OK,Fire,No,No,Yes,Yes,November,2015,2,Oklahoma
+CA,Fire,Yes,No,Yes,Yes,September,2015,2,California
+OR,Fire,No,No,Yes,Yes,August,2018,2,Oregon
+TX,Flood,Yes,No,Yes,No,May,2016,2,Texas
+UT,Fire,No,No,Yes,Yes,July,2018,2,Utah
+TX,Fire,No,No,Yes,Yes,December,2021,2,Texas
+CA,Fire,No,No,No,Yes,September,2010,2,California
+AR,Severe Storm,Yes,No,Yes,Yes,May,2011,2,Arkansas
+OR,Fire,No,No,Yes,Yes,August,2020,2,Oregon
+VT,Flood,No,No,Yes,Yes,July,2021,2,Vermont
+MN,Severe Storm,No,No,Yes,Yes,May,2011,2,Minnesota
+CA,Fire,Yes,No,Yes,Yes,July,2018,2,California
+NH,Flood,No,No,Yes,Yes,May,2011,2,New Hampshire
+ID,Fire,No,No,Yes,Yes,July,2015,2,Idaho
+WY,Fire,No,No,No,Yes,July,2016,2,Wyoming
+OR,Severe Storm,No,No,Yes,Yes,December,2016,2,Oregon
+KS,Severe Storm,No,No,Yes,Yes,July,2017,2,Kansas
+NV,Fire,No,No,No,Yes,July,2016,2,Nevada
+HI,Severe Storm,No,No,Yes,Yes,December,2021,2,Hawaii
+AZ,Severe Storm,No,No,Yes,Yes,July,2010,2,Arizona
+AZ,Fire,No,No,No,Yes,June,2016,1,Arizona
+DC,Hurricane,No,No,No,Yes,August,2011,1,District of Columbia
+CO,Fire,No,No,No,Yes,March,2011,1,Colorado
+UT,Flood,No,No,Yes,Yes,September,2012,1,Utah
+SD,Flood,Yes,No,Yes,No,March,2019,1,South Dakota
+MO,Flood,No,No,Yes,Yes,July,2022,1,Missouri
+ID,Fire,No,No,No,Yes,September,2012,1,Idaho
+OR,Fire,No,No,No,Yes,August,2014,1,Oregon
+WA,Fire,No,No,Yes,Yes,June,2017,1,Washington
+OK,Fire,No,No,Yes,Yes,March,2018,1,Oklahoma
+AR,Severe Storm,No,No,Yes,Yes,May,2011,1,Arkansas
+GA,Severe Storm,Yes,No,Yes,No,January,2023,1,Georgia
+OK,Fire,No,No,No,Yes,September,2011,1,Oklahoma
+GA,Severe Storm,No,No,Yes,Yes,April,2011,1,Georgia
+RI,Biological,No,No,Yes,Yes,January,2020,1,Rhode Island
+OR,Fire,No,No,No,Yes,June,2016,1,Oregon
+SD,Fire,No,No,Yes,Yes,March,2021,1,South Dakota
+NM,Severe Storm,No,No,No,Yes,February,2011,1,New Mexico
+MI,Toxic Substances,No,No,No,Yes,April,2014,1,Michigan
+MD,Flood,No,No,Yes,Yes,July,2016,1,Maryland
+NV,Fire,No,No,No,Yes,July,2013,1,Nevada
+LA,Flood,Yes,No,Yes,No,May,2021,1,Louisiana
+MP,Typhoon,Yes,No,Yes,Yes,August,2015,1,Northern Mariana Islands
+UT,Fire,No,No,Yes,Yes,September,2020,1,Utah
+KS,Fire,No,No,Yes,Yes,April,2016,1,Kansas
+SD,Fire,No,No,No,Yes,July,2012,1,South Dakota
+NM,Fire,No,No,Yes,Yes,May,2018,1,New Mexico
+VA,Flood,No,No,Yes,Yes,August,2021,1,Virginia
+OK,Severe Storm,Yes,No,Yes,No,May,2011,1,Oklahoma
+HI,Mud/Landslide,No,No,Yes,Yes,September,2016,1,Hawaii
+NH,Severe Storm,No,No,Yes,Yes,May,2012,1,New Hampshire
+CT,Hurricane,Yes,No,Yes,Yes,September,2021,1,Connecticut
+DC,Severe Storm,No,No,Yes,Yes,June,2012,1,District of Columbia
+CA,Fire,No,No,Yes,Yes,June,2021,1,California
+NV,Fire,No,No,Yes,Yes,June,2021,1,Nevada
+MT,Fire,No,No,Yes,Yes,June,2021,1,Montana
+TX,Other,No,No,Yes,Yes,April,2013,1,Texas
+AL,Severe Storm,No,No,Yes,Yes,March,2018,1,Alabama
+VI,Hurricane,No,No,Yes,Yes,September,2017,1,Virgin Islands of the U.S.
+NM,Fire,No,No,No,Yes,July,2016,1,New Mexico
+MA,Hurricane,No,No,No,Yes,August,2021,1,Massachusetts
+MS,Flood,Yes,No,Yes,No,March,2016,1,Mississippi
+DC,Biological,Yes,No,Yes,Yes,January,2020,1,District of Columbia
+OK,Fire,No,No,No,Yes,May,2014,1,Oklahoma
+GA,Severe Storm,No,No,Yes,Yes,January,2023,1,Georgia
+TX,Fire,No,No,Yes,Yes,May,2022,1,Texas
+AZ,Severe Storm,No,No,Yes,Yes,October,2010,1,Arizona
+CO,Fire,No,No,Yes,Yes,June,2012,1,Colorado
+TN,Severe Storm,Yes,No,Yes,No,April,2011,1,Tennessee
+CA,Fire,No,No,Yes,Yes,May,2022,1,California
+AR,Severe Storm,Yes,No,Yes,No,May,2015,1,Arkansas
+CA,Fire,No,No,Yes,Yes,July,2013,1,California
+MT,Fire,No,No,No,Yes,August,2011,1,Montana
+OK,Fire,No,No,Yes,Yes,March,2020,1,Oklahoma
+WY,Fire,No,No,Yes,Yes,June,2018,1,Wyoming
+AZ,Fire,No,No,No,Yes,July,2013,1,Arizona
+OR,Fire,No,No,Yes,Yes,July,2015,1,Oregon
+MD,Hurricane,Yes,No,Yes,Yes,October,2012,1,Maryland
+HI,Volcanic Eruption,Yes,No,Yes,Yes,May,2018,1,Hawaii
+OK,Severe Storm,No,No,Yes,Yes,May,2022,1,Oklahoma
+TN,Fire,Yes,No,Yes,Yes,November,2016,1,Tennessee
+TX,Flood,Yes,No,Yes,No,April,2016,1,Texas
+HI,Fire,No,No,Yes,Yes,August,2021,1,Hawaii
+GU,Biological,Yes,No,Yes,Yes,January,2020,1,Guam
+UT,Fire,No,No,Yes,Yes,July,2020,1,Utah
+HI,Flood,No,No,Yes,Yes,March,2021,1,Hawaii
+AZ,Fire,No,No,Yes,Yes,August,2015,1,Arizona
+HI,Fire,No,No,Yes,Yes,October,2019,1,Hawaii
+OK,Fire,No,No,No,Yes,April,2016,1,Oklahoma
+MN,Flood,No,No,Yes,Yes,October,2018,1,Minnesota
+MT,Tornado,No,No,Yes,Yes,June,2016,1,Montana
+OK,Fire,No,No,Yes,Yes,December,2021,1,Oklahoma
+OR,Fire,No,No,Yes,Yes,August,2022,1,Oregon
+ID,Fire,No,No,No,Yes,August,2012,1,Idaho
+OK,Fire,No,No,No,Yes,June,2011,1,Oklahoma
+WY,Fire,No,No,No,Yes,September,2012,1,Wyoming
+CA,Fire,No,No,Yes,Yes,September,2021,1,California
+AK,Coastal Storm,No,No,Yes,Yes,December,2017,1,Alaska
+VA,Hurricane,Yes,No,Yes,No,October,2016,1,Virginia
+NY,Severe Storm,Yes,No,Yes,No,September,2011,1,New York
+OR,Fire,No,No,Yes,Yes,September,2015,1,Oregon
+SD,Fire,No,No,No,Yes,August,2012,1,South Dakota
+UT,Fire,No,No,No,Yes,July,2014,1,Utah
+TX,Other,Yes,No,No,Yes,April,2013,1,Texas
+OK,Fire,No,No,No,Yes,July,2012,1,Oklahoma
+AK,Flood,No,No,Yes,Yes,May,2013,1,Alaska
+WV,Flood,No,No,Yes,Yes,July,2022,1,West Virginia
+AZ,Fire,No,No,No,Yes,May,2014,1,Arizona
+GA,Severe Storm,Yes,No,Yes,Yes,January,2017,1,Georgia
+DC,Hurricane,No,No,Yes,Yes,October,2012,1,District of Columbia
+MS,Tornado,No,No,Yes,Yes,December,2014,1,Mississippi
+TX,Hurricane,Yes,No,Yes,No,June,2010,1,Texas
+TX,Fire,No,No,No,Yes,July,2011,1,Texas
+MT,Fire,No,No,Yes,Yes,July,2019,1,Montana
+CA,Fire,No,No,No,Yes,October,2014,1,California
+CA,Fire,No,No,No,Yes,September,2013,1,California
+NM,Flood,No,No,Yes,Yes,October,2017,1,New Mexico
+ID,Fire,No,No,No,Yes,August,2016,1,Idaho
+NJ,Severe Storm,No,No,Yes,Yes,March,2010,1,New Jersey
+WV,Severe Storm,No,No,Yes,Yes,August,2022,1,West Virginia
+PA,Hurricane,No,No,Yes,Yes,August,2011,1,Pennsylvania
+NC,Mud/Landslide,No,No,Yes,Yes,January,2013,1,North Carolina
+NC,Hurricane,Yes,No,Yes,No,September,2018,1,North Carolina
+NC,Hurricane,Yes,No,Yes,No,August,2011,1,North Carolina
+GU,Typhoon,No,No,Yes,Yes,September,2018,1,Guam
+NM,Fire,No,No,No,Yes,March,2011,1,New Mexico
+AK,Severe Storm,No,No,Yes,Yes,September,2022,1,Alaska
+WV,Severe Storm,Yes,No,Yes,No,March,2010,1,West Virginia
+ME,Coastal Storm,No,No,Yes,Yes,March,2018,1,Maine
+WI,Biological,Yes,No,Yes,No,January,2020,1,Wisconsin
+WY,Fire,No,No,Yes,Yes,October,2015,1,Wyoming
+AK,Flood,No,No,Yes,Yes,May,2018,1,Alaska
+CO,Fire,No,No,No,Yes,April,2011,1,Colorado
+SD,Fire,No,No,Yes,Yes,August,2018,1,South Dakota
+AK,Flood,No,No,Yes,Yes,October,2013,1,Alaska
+WA,Fire,No,No,No,Yes,July,2016,1,Washington
+NE,Fire,No,No,No,Yes,April,2011,1,Nebraska
+CO,Fire,No,No,No,Yes,March,2012,1,Colorado
+UT,Earthquake,Yes,No,Yes,No,March,2020,1,Utah
+WA,Flood,No,No,Yes,Yes,May,2018,1,Washington
+WA,Mud/Landslide,No,No,No,Yes,March,2014,1,Washington
+TX,Fire,No,No,Yes,Yes,May,2018,1,Texas
+MI,Severe Storm,No,No,Yes,Yes,June,2021,1,Michigan
+UT,Fire,No,No,No,Yes,August,2013,1,Utah
+NV,Flood,No,No,Yes,Yes,September,2014,1,Nevada
+AZ,Fire,No,No,Yes,Yes,July,2019,1,Arizona
+WI,Snowstorm,No,No,No,Yes,January,2011,1,Wisconsin
+MS,Severe Storm,No,No,Yes,Yes,April,2010,1,Mississippi
+PA,Flood,Yes,No,No,No,September,2011,1,Pennsylvania
+AZ,Severe Storm,No,No,Yes,Yes,October,2018,1,Arizona
+NV,Fire,No,No,Yes,Yes,July,2019,1,Nevada
+WY,Severe Storm,No,No,Yes,Yes,February,2017,1,Wyoming
+ND,Flood,No,No,Yes,Yes,May,2013,1,North Dakota
+HI,Volcanic Eruption,No,No,Yes,Yes,September,2014,1,Hawaii
+GU,Typhoon,No,No,Yes,Yes,February,2019,1,Guam
+CA,Fire,No,No,Yes,Yes,October,2021,1,California
+MN,Flood,Yes,No,Yes,No,September,2016,1,Minnesota
+CA,Fire,No,No,No,Yes,July,2018,1,California
+SD,Fire,No,No,Yes,Yes,December,2017,1,South Dakota
+WI,Severe Storm,No,No,Yes,Yes,July,2010,1,Wisconsin
+WV,Severe Storm,No,No,Yes,Yes,March,2010,1,West Virginia
+FL,Other,Yes,No,No,Yes,June,2021,1,Florida
+WA,Fire,No,No,Yes,Yes,September,2017,1,Washington
+OK,Tornado,Yes,No,Yes,No,May,2013,1,Oklahoma
+SD,Severe Storm,No,No,Yes,Yes,March,2019,1,South Dakota
+DC,Biological,No,No,No,Yes,January,2020,1,District of Columbia
+NV,Fire,No,No,No,Yes,January,2012,1,Nevada
+UT,Fire,No,No,No,Yes,June,2016,1,Utah
+AZ,Flood,No,No,Yes,Yes,October,2022,1,Arizona
+UT,Fire,No,No,No,Yes,July,2012,1,Utah
+FL,Hurricane,Yes,No,Yes,No,August,2016,1,Florida
+NV,Fire,No,No,Yes,Yes,July,2021,1,Nevada
+NV,Fire,No,No,No,Yes,November,2011,1,Nevada
+NH,Coastal Storm,No,No,Yes,Yes,March,2018,1,New Hampshire
+NM,Fire,No,No,No,Yes,June,2010,1,New Mexico
+AZ,Freezing,No,No,Yes,Yes,December,2012,1,Arizona
+VA,Hurricane,Yes,No,Yes,Yes,October,2012,1,Virginia
+AZ,Fire,No,No,Yes,Yes,June,2022,1,Arizona
+GA,Fire,No,No,Yes,Yes,November,2016,1,Georgia
+DC,Hurricane,No,No,Yes,Yes,August,2011,1,District of Columbia
+MT,Fire,No,No,No,Yes,August,2012,1,Montana
+CA,Fire,No,No,No,Yes,August,2010,1,California
+AK,Severe Storm,No,No,Yes,Yes,December,2015,1,Alaska
+NH,Severe Storm,No,No,Yes,Yes,July,2019,1,New Hampshire
+ID,Fire,No,No,Yes,Yes,September,2022,1,Idaho
+WA,Fire,No,No,Yes,Yes,September,2015,1,Washington
+VA,Earthquake,No,No,Yes,Yes,August,2011,1,Virginia
+SD,Severe Storm,Yes,No,Yes,No,May,2015,1,South Dakota
+AK,Fire,No,No,No,Yes,May,2011,1,Alaska
+VI,Other,No,No,No,Yes,July,2022,1,Virgin Islands of the U.S.
+CO,Fire,No,No,Yes,Yes,July,2018,1,Colorado
+OR,Fire,No,No,No,Yes,September,2014,1,Oregon
+MA,Tornado,Yes,No,Yes,No,June,2011,1,Massachusetts
+IA,Flood,No,No,Yes,Yes,May,2011,1,Iowa
+CA,Fire,No,No,Yes,Yes,June,2016,1,California
+UT,Earthquake,Yes,No,Yes,Yes,March,2020,1,Utah
+NY,Severe Storm,No,No,Yes,Yes,February,2013,1,New York
+WV,Flood,Yes,No,Yes,No,June,2010,1,West Virginia
+MS,Severe Storm,Yes,No,No,No,February,2019,1,Mississippi
+AZ,Fire,No,No,Yes,Yes,June,2015,1,Arizona
+VT,Severe Storm,No,No,Yes,Yes,April,2011,1,Vermont
+AZ,Fire,No,No,Yes,Yes,July,2017,1,Arizona
+AK,Severe Storm,No,No,Yes,Yes,October,2021,1,Alaska
+NV,Fire,No,No,Yes,Yes,June,2020,1,Nevada
+NV,Fire,No,No,Yes,Yes,November,2020,1,Nevada
+CO,Fire,Yes,No,Yes,Yes,December,2021,1,Colorado
+KY,Flood,Yes,No,Yes,No,April,2015,1,Kentucky
+SD,Fire,No,No,Yes,Yes,October,2021,1,South Dakota
+MT,Fire,No,No,No,Yes,August,2013,1,Montana
+MS,Tornado,Yes,No,Yes,No,January,2017,1,Mississippi
+UT,Severe Storm,No,No,Yes,Yes,November,2011,1,Utah
+NM,Fire,No,No,No,Yes,May,2013,1,New Mexico
+MT,Fire,No,No,No,Yes,July,2013,1,Montana
+WV,Flood,Yes,No,Yes,No,February,2021,1,West Virginia
+ID,Fire,No,No,Yes,Yes,July,2018,1,Idaho
+NV,Fire,No,No,No,Yes,July,2010,1,Nevada
+WA,Fire,No,No,Yes,Yes,August,2022,1,Washington
+NM,Fire,No,No,No,Yes,May,2010,1,New Mexico
+UT,Fire,No,No,Yes,Yes,August,2018,1,Utah
+DE,Snowstorm,No,No,Yes,Yes,January,2016,1,Delaware
+ID,Fire,No,No,No,Yes,August,2010,1,Idaho
+NY,Hurricane,No,No,Yes,Yes,October,2012,1,New York
+OR,Fire,No,No,Yes,Yes,June,2021,1,Oregon
+OR,Fire,No,No,Yes,Yes,July,2019,1,Oregon
+TX,Fire,No,No,Yes,Yes,October,2015,1,Texas
+CO,Fire,No,No,Yes,Yes,December,2021,1,Colorado
+AK,Mud/Landslide,No,No,Yes,Yes,May,2022,1,Alaska
+DC,Hurricane,No,No,No,Yes,October,2012,1,District of Columbia
+MS,Severe Storm,Yes,No,Yes,No,May,2010,1,Mississippi
+NV,Fire,No,No,Yes,Yes,June,2018,1,Nevada
+WY,Fire,No,No,Yes,Yes,September,2018,1,Wyoming
+OK,Severe Storm,Yes,No,Yes,Yes,April,2011,1,Oklahoma
+CA,Flood,No,No,Yes,Yes,December,2014,1,California
+NV,Fire,No,No,No,Yes,October,2011,1,Nevada
+UT,Fire,No,No,Yes,Yes,September,2018,1,Utah
+WA,Fire,No,No,Yes,Yes,July,2015,1,Washington
+AR,Tornado,No,No,Yes,Yes,March,2020,1,Arkansas
+NV,Fire,No,No,No,Yes,May,2012,1,Nevada
+OR,Fire,No,No,Yes,Yes,September,2018,1,Oregon
+DC,Other,No,No,No,Yes,January,2021,1,District of Columbia
+MS,Flood,Yes,No,Yes,No,May,2011,1,Mississippi
+SC,Severe Storm,No,No,Yes,Yes,April,2020,1,South Carolina
+SC,Flood,Yes,No,Yes,No,October,2015,1,South Carolina
+WA,Fire,No,No,Yes,Yes,May,2017,1,Washington
+MS,Severe Storm,No,No,Yes,Yes,April,2014,1,Mississippi
+OR,Fire,No,No,Yes,Yes,August,2021,1,Oregon
+CA,Earthquake,No,No,Yes,Yes,December,2022,1,California
+TN,Tornado,Yes,No,Yes,No,December,2021,1,Tennessee
+CO,Fire,No,No,No,Yes,July,2016,1,Colorado
+WA,Fire,No,No,No,Yes,September,2011,1,Washington
+RI,Hurricane,No,No,Yes,No,August,2011,1,Rhode Island
+GU,Severe Storm,No,No,Yes,Yes,July,2014,1,Guam
+VA,Severe Storm,No,No,No,Yes,June,2012,1,Virginia
+MS,Severe Storm,No,No,No,Yes,December,2015,1,Mississippi
+MT,Fire,No,No,No,Yes,September,2012,1,Montana
+HI,Severe Storm,No,No,Yes,Yes,March,2020,1,Hawaii
+AZ,Fire,No,No,No,Yes,May,2011,1,Arizona
+PR,Hurricane,Yes,No,Yes,No,August,2011,1,Puerto Rico
+AZ,Flood,No,No,Yes,Yes,July,2018,1,Arizona
+PR,Flood,Yes,No,No,No,September,2020,1,Puerto Rico
+DC,Earthquake,No,No,Yes,Yes,August,2011,1,District of Columbia
+CA,Fire,No,No,No,Yes,January,2014,1,California
+MS,Other,No,No,No,Yes,August,2022,1,Mississippi
+NH,Severe Storm,No,No,Yes,Yes,July,2021,1,New Hampshire
+CA,Fire,No,No,Yes,Yes,August,2013,1,California
+MT,Severe Storm,No,No,No,Yes,April,2016,1,Montana
+CA,Fire,No,No,No,Yes,August,2020,1,California
+MA,Tornado,Yes,No,Yes,Yes,June,2011,1,Massachusetts
+MS,Severe Storm,Yes,No,Yes,No,April,2020,1,Mississippi
+AK,Severe Storm,No,No,Yes,Yes,September,2017,1,Alaska
+IL,Flood,Yes,No,Yes,No,July,2022,1,Illinois
+OR,Fire,No,No,No,Yes,June,2014,1,Oregon
+PA,Hurricane,Yes,No,Yes,No,August,2021,1,Pennsylvania
+OR,Fire,No,No,No,Yes,August,2016,1,Oregon
+MT,Fire,No,No,No,Yes,August,2016,1,Montana
+HI,Fire,No,No,No,Yes,June,2010,1,Hawaii
+AZ,Fire,No,No,Yes,Yes,April,2018,1,Arizona
+NV,Fire,No,No,No,Yes,September,2011,1,Nevada
+OR,Fire,No,No,Yes,Yes,June,2018,1,Oregon
+TX,Severe Storm,No,No,No,Yes,October,2015,1,Texas
+NV,Fire,No,No,Yes,Yes,August,2022,1,Nevada
+NH,Fire,No,No,Yes,Yes,April,2016,1,New Hampshire
+NM,Fire,No,No,Yes,Yes,April,2021,1,New Mexico
+DC,Severe Storm,No,No,Yes,Yes,February,2010,1,District of Columbia
+WA,Fire,No,No,Yes,Yes,June,2015,1,Washington
+WA,Fire,No,No,No,Yes,July,2010,1,Washington
+AZ,Fire,No,No,Yes,Yes,May,2018,1,Arizona
+UT,Fire,No,No,Yes,Yes,June,2017,1,Utah
+AR,Severe Storm,Yes,No,Yes,No,April,2014,1,Arkansas
+TX,Fire,No,No,No,Yes,April,2012,1,Texas
+CA,Fire,No,No,No,Yes,July,2014,1,California
+AL,Severe Storm,Yes,No,Yes,No,March,2021,1,Alabama
+AK,Fire,No,No,Yes,Yes,June,2019,1,Alaska
+IN,Severe Storm,Yes,No,Yes,No,February,2012,1,Indiana
+CA,Fire,No,No,Yes,Yes,December,2020,1,California
+AL,Tornado,Yes,No,Yes,Yes,March,2019,1,Alabama
+FL,Fire,No,No,No,Yes,April,2011,1,Florida
+AK,Severe Storm,No,No,Yes,Yes,January,2022,1,Alaska
+NM,Fire,No,No,Yes,Yes,March,2019,1,New Mexico
+ME,Biological,Yes,No,No,Yes,January,2020,1,Maine
+OK,Fire,No,No,No,Yes,January,2016,1,Oklahoma
+TX,Fire,No,No,No,Yes,May,2014,1,Texas
+AK,Coastal Storm,No,No,Yes,Yes,August,2015,1,Alaska
+AZ,Severe Storm,Yes,No,Yes,Yes,July,2022,1,Arizona
+CA,Earthquake,No,No,Yes,Yes,April,2010,1,California
+OK,Fire,No,No,No,Yes,February,2016,1,Oklahoma
+VI,Severe Storm,No,No,Yes,Yes,November,2010,1,Virgin Islands of the U.S.
+CA,Severe Storm,No,No,Yes,Yes,February,2017,1,California
+DC,Snowstorm,No,No,Yes,Yes,January,2016,1,District of Columbia
+UT,Fire,No,No,No,Yes,September,2010,1,Utah
+GU,Typhoon,No,No,Yes,Yes,May,2015,1,Guam
+AZ,Severe Storm,No,No,Yes,Yes,February,2019,1,Arizona
+WA,Fire,No,No,No,Yes,August,2010,1,Washington
+AZ,Fire,No,No,Yes,Yes,May,2021,1,Arizona
+MI,Severe Storm,Yes,No,Yes,Yes,June,2021,1,Michigan
+NM,Fire,No,No,Yes,Yes,June,2017,1,New Mexico
+NM,Fire,No,No,Yes,Yes,June,2018,1,New Mexico
+AS,Severe Storm,No,No,Yes,Yes,July,2022,1,American Samoa
+OK,Severe Storm,No,No,Yes,Yes,December,2022,1,Oklahoma
+MD,Severe Storm,No,No,Yes,No,February,2014,1,Maryland
+DE,Hurricane,No,No,Yes,Yes,September,2021,1,Delaware
+OH,Tornado,No,No,Yes,Yes,May,2019,1,Ohio
+UT,Fire,No,No,Yes,Yes,August,2019,1,Utah
+WA,Fire,No,No,No,Yes,August,2012,1,Washington
+CA,Fire,No,No,Yes,Yes,July,2022,1,California
+GU,Biological,No,No,No,Yes,January,2020,1,Guam
+TN,Other,No,No,No,Yes,December,2020,1,Tennessee
+LA,Flood,No,No,Yes,Yes,March,2016,1,Louisiana
+NM,Severe Storm,No,No,Yes,Yes,September,2013,1,New Mexico
+AZ,Fire,No,No,Yes,Yes,April,2021,1,Arizona
+TX,Fire,No,No,Yes,Yes,August,2019,1,Texas

@@ -1,0 +1,1022 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2024.1" RunE2="T">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">E:\Special Topic[DB]\PJ\us_disaster_declarations.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>us_disaster_declarations.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="fema_declaration_string" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="disaster_number" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="state" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="declaration_type" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="declaration_date" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="fy_declared" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="incident_type" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="declaration_title" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="ih_program_declared" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="ia_program_declared" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="pa_program_declared" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="hm_program_declared" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="incident_begin_date" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="incident_end_date" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="disaster_closeout_date" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="fips" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="place_code" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="designated_area" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="declaration_request_number" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="last_ia_filing_date" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="last_refresh" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="hash" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="id" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AutoField.AutoField">
+        <Position x="366" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Fields>
+            <Field field="fema_declaration_string" selected="True" />
+            <Field field="disaster_number" selected="True" />
+            <Field field="state" selected="True" />
+            <Field field="declaration_type" selected="True" />
+            <Field field="declaration_date" selected="True" />
+            <Field field="fy_declared" selected="True" />
+            <Field field="incident_type" selected="True" />
+            <Field field="declaration_title" selected="True" />
+            <Field field="ih_program_declared" selected="False" />
+            <Field field="ia_program_declared" selected="False" />
+            <Field field="pa_program_declared" selected="False" />
+            <Field field="hm_program_declared" selected="False" />
+            <Field field="incident_begin_date" selected="True" />
+            <Field field="incident_end_date" selected="True" />
+            <Field field="disaster_closeout_date" selected="True" />
+            <Field field="fips" selected="True" />
+            <Field field="place_code" selected="True" />
+            <Field field="designated_area" selected="True" />
+            <Field field="declaration_request_number" selected="True" />
+            <Field field="last_ia_filing_date" selected="True" />
+            <Field field="last_refresh" selected="True" />
+            <Field field="hash" selected="True" />
+            <Field field="id" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </Fields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="fema_declaration_string" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="disaster_number" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="state" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="declaration_type" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="declaration_date" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="fy_declared" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="incident_type" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="declaration_title" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="ih_program_declared" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="ia_program_declared" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="pa_program_declared" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="hm_program_declared" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="incident_begin_date" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="incident_end_date" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="disaster_closeout_date" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="fips" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="place_code" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="designated_area" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="declaration_request_number" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="last_ia_filing_date" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="last_refresh" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="hash" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+            <Field name="id" size="254" source="File: E:\Special Topic[DB]\PJ\us_disaster_declarations.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxAutoField" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="498" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="state" selected="True" />
+            <SelectField field="declaration_type" selected="True" />
+            <SelectField field="declaration_date" selected="True" type="Date" size="10" />
+            <SelectField field="incident_type" selected="True" />
+            <SelectField field="ih_program_declared" selected="True" />
+            <SelectField field="ia_program_declared" selected="True" />
+            <SelectField field="pa_program_declared" selected="True" />
+            <SelectField field="hm_program_declared" selected="True" />
+            <SelectField field="incident_begin_date" selected="True" type="Date" size="10" />
+            <SelectField field="incident_end_date" selected="True" />
+            <SelectField field="designated_area" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="11">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="834" y="318" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="DateTimeYear([declaration_year])" field="incident_year" size="2" type="Int16" enabled="true" />
+            <FormulaField expression="DateTimeFormat([declarationDate],&quot;%B&quot;)" field="month" size="1073741823" type="V_WString" enabled="true" />
+            <FormulaField expression="DateTimeDiff([obligatedDate],[declarationDate],&quot;month&quot;)" field="#month_assistance" size="2" type="Int16" enabled="true" />
+            <FormulaField expression="LEFT([incidentType], FindString([incidentType], &quot;(&quot;))" field="incidentType" size="31" type="V_String" enabled="true" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>incident_year = DateTimeYear([declaration_year])
+month = DateTimeFormat([declara...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="966" y="318" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>[incident_year]&gt;=2010</Expression>
+          <Mode>Custom</Mode>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[incident_year]&gt;=2010</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="14">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="318" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>PublicAssistanceFundedProjectsDetails.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="disasterNumber" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="declarationDate" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="incidentType" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="pwNumber" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="applicationTitle" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="applicantId" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="damageCategoryCode" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="projectSize" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="county" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="countyCode" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="state" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="stateCode" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="stateNumberCode" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="projectAmount" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="federalShareObligated" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="totalObligated" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="obligatedDate" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="dcc" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="damageCategory" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="lastRefresh" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="hash" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="id" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="20">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="510" y="318" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="declarationDate" selected="True" type="Date" size="10" />
+            <SelectField field="incidentType" selected="True" />
+            <SelectField field="applicantId" selected="True" />
+            <SelectField field="state" selected="True" rename="state_name" />
+            <SelectField field="stateCode" selected="True" />
+            <SelectField field="totalObligated" selected="True" />
+            <SelectField field="obligatedDate" selected="True" type="Date" size="10" />
+            <SelectField field="damageCategory" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="28">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DateTime.DateTime">
+        <Position x="666" y="318" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <IsFrom value="True" />
+          <InputFieldName>declarationDate</InputFieldName>
+          <Language>English</Language>
+          <Format>yyyy-MM-dd</Format>
+          <OutputFieldName>declaration_year</OutputFieldName>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Convert declarationDate To:
+yyyy-MM-dd</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDateTime" />
+    </Node>
+    <Node ToolID="36">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="1194" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="state" action="GroupBy" rename="state" />
+            <SummarizeField field="incident_type" action="GroupBy" rename="incident_type" />
+            <SummarizeField field="ih_program_declared" action="GroupBy" rename="ih_program_declared" />
+            <SummarizeField field="ia_program_declared" action="GroupBy" rename="ia_program_declared" />
+            <SummarizeField field="hm_program_declared" action="GroupBy" rename="hm_program_declared" />
+            <SummarizeField field="pa_program_declared" action="GroupBy" rename="pa_program_declared" />
+            <SummarizeField field="incident_month" action="GroupBy" rename="incident_month" />
+            <SummarizeField field="incident_year" action="GroupBy" rename="incident_year" />
+            <SummarizeField field="incident_type" action="Count" rename="#disasters" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="40">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="822" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="DateTimeFormat([incident_date],&quot;%B&quot;)&#xA;" field="incident_month" size="1073741823" type="V_WString" enabled="true" />
+            <FormulaField expression="DateTimeYear([incident_date])" field="incident_year" size="2" type="Int16" enabled="true" />
+            <FormulaField expression="Replace([ih_program_declared], &quot;0&quot;, &quot;No&quot;)" field="ih_program_declared" size="254" type="V_String" enabled="true" />
+            <FormulaField expression=" Replace([ih_program_declared], &quot;1&quot;, &quot;Yes&quot;)" field="ih_program_declared" size="254" type="V_String" enabled="true" />
+            <FormulaField expression="Replace([ia_program_declared], &quot;1&quot;, &quot;Yes&quot;)" field="ia_program_declared" size="254" type="V_String" enabled="true" />
+            <FormulaField expression="Replace([ia_program_declared], &quot;0&quot;, &quot;No&quot;)" field="ia_program_declared" size="254" type="V_String" enabled="true" />
+            <FormulaField expression=" Replace([pa_program_declared], &quot;1&quot;, &quot;Yes&quot;)&#xA;" field="pa_program_declared" size="254" type="V_String" enabled="true" />
+            <FormulaField expression="Replace([pa_program_declared], &quot;0&quot;, &quot;No&quot;)" field="pa_program_declared" size="254" type="V_String" enabled="true" />
+            <FormulaField expression=" Replace([hm_program_declared], &quot;1&quot;, &quot;Yes&quot;)" field="hm_program_declared" size="254" type="V_String" enabled="true" />
+            <FormulaField expression="Replace([hm_program_declared], &quot;0&quot;, &quot;No&quot;)" field="hm_program_declared" size="254" type="V_String" enabled="true" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>incident_month = DateTimeFormat([incident_date],"%B")
+
+incident_year = DateTimeY...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="43">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AutoField.AutoField">
+        <Position x="378" y="318" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Fields>
+            <Field field="disasterNumber" selected="True" />
+            <Field field="declarationDate" selected="True" />
+            <Field field="incidentType" selected="True" />
+            <Field field="pwNumber" selected="True" />
+            <Field field="applicationTitle" selected="True" />
+            <Field field="applicantId" selected="True" />
+            <Field field="damageCategoryCode" selected="True" />
+            <Field field="projectSize" selected="True" />
+            <Field field="county" selected="True" />
+            <Field field="countyCode" selected="True" />
+            <Field field="state" selected="True" />
+            <Field field="stateCode" selected="True" />
+            <Field field="stateNumberCode" selected="True" />
+            <Field field="projectAmount" selected="True" />
+            <Field field="federalShareObligated" selected="True" />
+            <Field field="totalObligated" selected="True" />
+            <Field field="obligatedDate" selected="True" />
+            <Field field="dcc" selected="True" />
+            <Field field="damageCategory" selected="True" />
+            <Field field="lastRefresh" selected="True" />
+            <Field field="hash" selected="True" />
+            <Field field="id" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </Fields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="disasterNumber" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="declarationDate" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="incidentType" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="pwNumber" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="applicationTitle" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="applicantId" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="damageCategoryCode" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="projectSize" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="county" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="countyCode" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="state" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="stateCode" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="stateNumberCode" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="projectAmount" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="federalShareObligated" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="totalObligated" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="obligatedDate" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="dcc" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="damageCategory" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="lastRefresh" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="hash" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+            <Field name="id" size="254" source="File: E:\Special Topic[DB]\PJ\PublicAssistanceFundedProjectsDetails.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxAutoField" />
+    </Node>
+    <Node ToolID="44">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="966" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>[incident_year]&gt;=2010</Expression>
+          <Mode>Custom</Mode>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[incident_year]&gt;=2010</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="45">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DateTime.DateTime">
+        <Position x="654" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <IsFrom value="True" />
+          <InputFieldName>incident_begin_date</InputFieldName>
+          <Language>English</Language>
+          <Format>yyyy-MM-dd</Format>
+          <OutputFieldName>incident_date</OutputFieldName>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Convert incident_begin_date To:
+yyyy-MM-dd</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDateTime" />
+    </Node>
+    <Node ToolID="57">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1458" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\HP\AppData\Local\Temp\Alteryx\Engine_22548_e348c3c899c54c449f92a787019fdf57_\Engine_22548_dbcce2ab8f325a44adf12dd2df59fdac~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="60">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="1314" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="#disasters" order="Descending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>#disasters - Descending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="68">
+      <GuiSettings>
+        <Position x="246" y="318" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Check Box (135)">False</Value>
+          <Value name="Check Box (136)">False</Value>
+          <Value name="List Box (11)">"disasterNumber","declarationDate","incidentType","pwNumber","applicationTitle","applicantId","damageCategoryCode","projectSize","county","countyCode","state","stateCode","stateNumberCode","projectAmount","federalShareObligated","totalObligated","obligatedDate","dcc","damageCategory","lastRefresh","hash","id"</Value>
+          <Value name="Check Box (84)">True</Value>
+          <Value name="Check Box (117)">True</Value>
+          <Value name="Check Box (15)">True</Value>
+          <Value name="Check Box (109)">False</Value>
+          <Value name="Check Box (122)">False</Value>
+          <Value name="Check Box (53)">False</Value>
+          <Value name="Check Box (58)">False</Value>
+          <Value name="Check Box (70)">False</Value>
+          <Value name="Check Box (77)">False</Value>
+          <Value name="Drop Down (81)">upper</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Cleanse.yxmc" />
+    </Node>
+    <Node ToolID="74">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="1062" y="306" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="state_name" action="GroupBy" rename="state_name" />
+            <SummarizeField field="stateCode" action="GroupBy" rename="stateCode" />
+            <SummarizeField field="incidentType" action="GroupBy" rename="incidentType" />
+            <SummarizeField field="incident_year" action="GroupBy" rename="incident_year" />
+            <SummarizeField field="month" action="GroupBy" rename="month" />
+            <SummarizeField field="damageCategory" action="GroupBy" rename="damageCategory" />
+            <SummarizeField field="#month_assistance" action="Avg" rename="avg_month" />
+            <SummarizeField field="totalObligated" action="Sum" rename="total_amount" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="86">
+      <GuiSettings>
+        <Position x="210" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Check Box (135)">False</Value>
+          <Value name="Check Box (136)">False</Value>
+          <Value name="List Box (11)">"fema_declaration_string","disaster_number","state","declaration_type","declaration_date","fy_declared","incident_type","declaration_title","ih_program_declared","ia_program_declared","pa_program_declared","hm_program_declared","incident_begin_date","incident_end_date","disaster_closeout_date","fips","place_code","designated_area","declaration_request_number","last_ia_filing_date","last_refresh","hash","id"</Value>
+          <Value name="Check Box (84)">True</Value>
+          <Value name="Check Box (117)">True</Value>
+          <Value name="Check Box (15)">True</Value>
+          <Value name="Check Box (109)">False</Value>
+          <Value name="Check Box (122)">False</Value>
+          <Value name="Check Box (53)">False</Value>
+          <Value name="Check Box (58)">False</Value>
+          <Value name="Check Box (70)">False</Value>
+          <Value name="Check Box (77)">False</Value>
+          <Value name="Drop Down (81)">upper</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Cleanse.yxmc" />
+    </Node>
+    <Node ToolID="131">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.FindReplace.FindReplace">
+        <Position x="1458" y="234" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldFind>state</FieldFind>
+          <FieldSearch>stateCode</FieldSearch>
+          <ReplaceFoundField>state</ReplaceFoundField>
+          <FindMode>FindAny</FindMode>
+          <NoCase value="False" />
+          <MatchWholeWord value="False" />
+          <ReplaceMode>Append</ReplaceMode>
+          <ReplaceMultipleFound value="True" />
+          <ReplaceAppendFields>
+            <Field field="state_name" />
+          </ReplaceAppendFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFindReplace" />
+    </Node>
+    <Node ToolID="132">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1578" y="234" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\HP\AppData\Local\Temp\Alteryx\Engine_22548_e348c3c899c54c449f92a787019fdf57_\Engine_22548_904c6cbe6040024c9e604b6e45b8de68~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="137">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="1182" y="306" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="Round([total_amount],1)" field="total_amount" size="8" type="Double" enabled="true" />
+            <FormulaField expression="Round([Avg_month],1)" field="avg_month" size="8" type="Double" enabled="true" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[total_amount = Round([total_amount],1)
+avg_month = Round([Avg_month],1)
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="140">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="1710" y="306" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="stateCode" selected="False" />
+            <SelectField field="Avg_#month_assistance" selected="False" />
+            <SelectField field="Sum_totalObligated" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="141">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="1866" y="306" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="total_amount" order="Descending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>total_amount - Descending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="144">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="1578" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">E:\Special Topic[DB]\PJ\us_disasters_overview.csv</File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+            <WriteBOM>True</WriteBOM>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>us_disasters_overview.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="145">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="2094" y="306" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">E:\Special Topic[DB]\PJ\us_disasters_spending.csv</File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+            <WriteBOM>True</WriteBOM>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>us_disasters_spending.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="146">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Unique.Unique">
+        <Position x="1866" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UniqueFields>
+            <Field field="incident_type" />
+          </UniqueFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnique" />
+    </Node>
+    <Node ToolID="148">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="1746" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="incident_type" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="150">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="1986" y="294" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="incident_type" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="incidentType" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Right_incidentType" selected="False" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="151">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="2082" y="234" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\HP\AppData\Local\Temp\Alteryx\Engine_22548_e348c3c899c54c449f92a787019fdf57_\Engine_22548_5eaf0493909af94f89050e6e4990c145~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="86" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="Output" />
+      <Destination ToolID="45" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="11" Connection="Output" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="True" />
+      <Destination ToolID="74" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="68" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="20" Connection="Output" />
+      <Destination ToolID="28" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="28" Connection="Output" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="36" Connection="Output" />
+      <Destination ToolID="60" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="40" Connection="Output" />
+      <Destination ToolID="44" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="43" Connection="Output" />
+      <Destination ToolID="20" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="44" Connection="True" />
+      <Destination ToolID="36" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="45" Connection="Output" />
+      <Destination ToolID="40" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="60" Connection="Output" />
+      <Destination ToolID="57" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="60" Connection="Output" />
+      <Destination ToolID="131" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="137" Connection="Output" />
+      <Destination ToolID="131" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="60" Connection="Output" />
+      <Destination ToolID="148" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="68" Connection="Output26" />
+      <Destination ToolID="43" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="74" Connection="Output" />
+      <Destination ToolID="137" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="86" Connection="Output26" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="131" Connection="Output" />
+      <Destination ToolID="132" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="131" Connection="Output" />
+      <Destination ToolID="144" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="137" Connection="Output" />
+      <Destination ToolID="140" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="140" Connection="Output" />
+      <Destination ToolID="141" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="141" Connection="Output" />
+      <Destination ToolID="150" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="146" Connection="Unique" />
+      <Destination ToolID="150" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="148" Connection="Output" />
+      <Destination ToolID="146" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="150" Connection="Join" />
+      <Destination ToolID="151" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="150" Connection="Join" />
+      <Destination ToolID="145" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <IsTemplate value="False" />
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>us_disasters_2</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="a12c2520-26eb-4cd7-ae01-156dd80c303c" />
+      <Telemetry>
+        <PreviousWorkflowId value="d24ba794-5ece-4a12-aa3d-93f248b6ccce" />
+        <OriginWorkflowId value="d28ac499-1358-4173-a0ad-885b4cd75400" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
